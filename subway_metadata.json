@@ -1,0 +1,634 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "kk4q-3rt2",
+      "name" : "DOITT_SUBWAY_STATION_01_13SEPT2010",
+      "averageRating" : 0,
+      "createdAt" : 1365616359,
+      "displayType" : "geoRows",
+      "downloadCount" : 733,
+      "indexUpdatedAt" : 1450754400,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 15713279,
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 6269808,
+      "publicationStage" : "published",
+      "tableId" : 6269808,
+      "totalTimesRated" : 0,
+      "viewCount" : 18,
+      "viewLastModified" : 1409938105,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 234876542,
+        "name" : "NAME",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33441183,
+        "format" : { }
+      }, {
+        "id" : 234876539,
+        "name" : "the_geom",
+        "dataTypeName" : "point",
+        "fieldName" : "the_geom",
+        "position" : 1,
+        "renderTypeName" : "point",
+        "tableColumnId" : 33441180,
+        "format" : { }
+      }, {
+        "id" : 234876544,
+        "name" : "URL",
+        "dataTypeName" : "text",
+        "fieldName" : "url",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33441185,
+        "format" : { }
+      }, {
+        "id" : 234876547,
+        "name" : "LINE",
+        "dataTypeName" : "text",
+        "fieldName" : "line",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33441188,
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "geo" : {
+          "isNbe" : true,
+          "parentUid" : "arq3-7z49"
+        }
+      },
+      "owner" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/api/users/qy85-itiy/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/qy85-itiy/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/qy85-itiy/profile_images/TINY",
+        "screenName" : "gneuhaus"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/api/users/qy85-itiy/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/qy85-itiy/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/qy85-itiy/profile_images/TINY",
+        "screenName" : "gneuhaus"
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ "row-qytc_cw47~wrmx", "00000000-0000-0000-4872-24ABEE252071", 0, 1450753176, null, 1450753176, null, "{ }", "W 4th St - Washington Sq (Lower)", "POINT (-74.00030814706824 40.73225482650675)", "http://www.mta.info/nyct/subway/index.html", "B-D-F-M" ]
+, [ "row-3bh6-ypq7~8nua", "00000000-0000-0000-4A1D-0454F3230E1B", 0, 1450753176, null, 1450753176, null, "{ }", "Buhre Ave", "POINT (-73.83256899924748 40.846810332614844)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-8ngu~sjur~ahfu", "00000000-0000-0000-F01E-1AE6039CD6DC", 0, 1450753176, null, 1450753176, null, "{ }", "51st St", "POINT (-73.97192000013308 40.757107333148234)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-ta7i~jy6c_h5ku", "00000000-0000-0000-A333-820DEBE9A934", 0, 1450753176, null, 1450753176, null, "{ }", "86th St", "POINT (-73.97621799811347 40.78864433404891)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-k6cd~itxm.c5w4", "00000000-0000-0000-7E9E-F604BBD89CDF", 0, 1450753176, null, 1450753176, null, "{ }", "Brooklyn Bridge - City Hall", "POINT (-74.00413100111697 40.713065332984044)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-zbp3.fnnf~gu8e", "00000000-0000-0000-9292-820155CCBC70", 0, 1450753176, null, 1450753176, null, "{ }", "33rd St", "POINT (-73.98207600124924 40.7460813321576)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-naje_y955.hmd6", "00000000-0000-0000-20D9-F9B6E83534AF", 0, 1450753176, null, 1450753176, null, "{ }", "Lexington Ave - 59th St", "POINT (-73.96796700066442 40.76252633389173)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-ivur.7q99.cvrq", "00000000-0000-0000-7081-104F1204B7AF", 0, 1450753176, null, 1450753176, null, "{ }", "233rd St", "POINT (-73.85736239433544 40.89314357506239)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-vgny.fa4p_kp9w", "00000000-0000-0000-AB11-E3CEE68A21C4", 0, 1450753176, null, 1450753176, null, "{ }", "66th St - Lincoln Ctr", "POINT (-73.98220900041213 40.773440334231445)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-5j5d_5ics_p2pr", "00000000-0000-0000-48EF-43EF9F782A48", 0, 1450753176, null, 1450753176, null, "{ }", "Hunts Point Ave", "POINT (-73.89054899975386 40.82094833186627)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-4tn4.cz2s-rt7w", "00000000-0000-0000-96A0-011E64B3524A", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St", "POINT (-74.00627700023756 40.722854331339036)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-ufaf-jrck.mdvt", "00000000-0000-0000-CB13-F24CD6EE9381", 0, 1450753176, null, 1450753176, null, "{ }", "Middletown Rd", "POINT (-73.83632199732654 40.843863334673635)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-dspf_e87j-bhtx", "00000000-0000-0000-5EEF-2FF085C92BB5", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St", "POINT (-73.98659900183978 40.7398643335507)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-wjxg~3dvx.fujy", "00000000-0000-0000-F9B9-429EA7D3258A", 0, 1450753176, null, 1450753176, null, "{ }", "45th Rd - Court House Sq", "POINT (-73.94526400065335 40.747023331863446)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-gpah~ez3f.42iu", "00000000-0000-0000-2775-FEA2C9BE7033", 0, 1450753176, null, 1450753176, null, "{ }", "Astor Pl", "POINT (-73.99106999895504 40.73005433376933)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-3e7v~be73_ekhk", "00000000-0000-0000-E844-0EF077637CDC", 0, 1450753176, null, 1450753176, null, "{ }", "59th St - Columbus Circle", "POINT (-73.98192900168259 40.76824733393756)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-ngyc_8geq_3atv", "00000000-0000-0000-3230-1B8B44636DD7", 0, 1450753176, null, 1450753176, null, "{ }", "Hunters Point Ave", "POINT (-73.9489160011607 40.74221633326165)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-q3tp.pm6k.xsmf", "00000000-0000-0000-AE1C-E6F7FF316205", 0, 1450753176, null, 1450753176, null, "{ }", "96th St", "POINT (-73.95107000070685 40.785672333485294)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-zv89-8jsy.sa2x", "00000000-0000-0000-A573-D58330DCABF4", 0, 1450753176, null, 1450753176, null, "{ }", "Mets - Willets Point", "POINT (-73.84562499786716 40.75462233245772)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-28ex_8z8x_ikey", "00000000-0000-0000-6B88-D66C311445F9", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St", "POINT (-73.99565700196479 40.74408133288406)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-j4f9~9ssg_x54d", "00000000-0000-0000-508D-582905BC108C", 0, 1450753176, null, 1450753176, null, "{ }", "Houston St", "POINT (-74.00536700184291 40.72825133360782)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-4ruf.bka2~hbus", "00000000-0000-0000-0AE2-938AFA94E927", 0, 1450753176, null, 1450753176, null, "{ }", "3rd Ave - 138th St", "POINT (-73.92613800022275 40.81047633454132)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-5cdn-j3fr.rchy", "00000000-0000-0000-BD10-D0AC3F30AF3A", 0, 1450753176, null, 1450753176, null, "{ }", "Zerega Ave", "POINT (-73.84703599804547 40.83648833366287)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-447h-nw8c_ngki", "00000000-0000-0000-6E25-D1FF476B2B17", 0, 1450753176, null, 1450753176, null, "{ }", "104th St", "POINT (-73.8376829999374 40.681711334202696)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-au58.nka3.pczn", "00000000-0000-0000-1D42-CF02823A496C", 0, 1450753176, null, 1450753176, null, "{ }", "Bleecker St (Downtown)", "POINT (-73.99467467829572 40.72593123822929)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-qmc7_zwzb_dcyr", "00000000-0000-0000-E35D-B486421E08EF", 0, 1450753176, null, 1450753176, null, "{ }", "Castle Hill Ave", "POINT (-73.85122199920897 40.83425533183211)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-6572_8zir~55ec", "00000000-0000-0000-5406-24F6E9958DE7", 0, 1450753176, null, 1450753176, null, "{ }", "Broad Channel", "POINT (-73.81583268677743 40.608402513981986)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-gjq7~98x2_uk2w", "00000000-0000-0000-3978-295E12D5DC84", 0, 1450753176, null, 1450753176, null, "{ }", "Ocean Pkwy", "POINT (-73.9685010000048 40.5763120005781)", "http://www.mta.info/nyct/subway/index.html", "Q" ]
+, [ "row-nvr2_24hu-4ak2", "00000000-0000-0000-8053-7D4264AB4EA2", 0, 1450753176, null, 1450753176, null, "{ }", "50th St", "POINT (-73.98384899991842 40.76172833308103)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-dhmp~h5vs_wrdi", "00000000-0000-0000-E64D-9874A7AB9E09", 0, 1450753176, null, 1450753176, null, "{ }", "Vernon Blvd - Jackson Ave", "POINT (-73.95358099882006 40.74262633257131)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-aiut~g8n9-4n8t", "00000000-0000-0000-D75E-699344CED466", 0, 1450753176, null, 1450753176, null, "{ }", "68th St - Hunter College", "POINT (-73.96387000148661 40.768141333903976)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-rhpn~4bjm_fnkn", "00000000-0000-0000-7DDB-3E3F4D981508", 0, 1450753176, null, 1450753176, null, "{ }", "Queensboro Plz", "POINT (-73.94016353439743 40.75063598438094)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express-N-W" ]
+, [ "row-evci.uus5.btja", "00000000-0000-0000-3649-9391FCD04B2E", 0, 1450753176, null, 1450753176, null, "{ }", "Rockaway Blvd", "POINT (-73.8438529971175 40.68042933335036)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-9aaq-3wr5~jyhf", "00000000-0000-0000-0846-24A343E137C4", 0, 1450753176, null, 1450753176, null, "{ }", "Union Sq - 14th St", "POINT (-73.98995099886989 40.734673334561)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-7q89_r26b~5uck", "00000000-0000-0000-E03C-24170B4158CE", 0, 1450753176, null, 1450753176, null, "{ }", "Junction Blvd", "POINT (-73.8695269997965 40.74914533273112)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-wtfw-k9aw_8g7z", "00000000-0000-0000-C83F-8D3930D58FC7", 0, 1450753176, null, 1450753176, null, "{ }", "Classon Ave", "POINT (-73.95999000126959 40.68888933367643)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-mwuy.w32h-8vxw", "00000000-0000-0000-F462-4955C0852300", 0, 1450753176, null, 1450753176, null, "{ }", "Bedford - Nostrand Aves", "POINT (-73.95352199987617 40.68962733491343)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-dqat-2q9z.58fm", "00000000-0000-0000-0B96-8BDC4F0DE367", 0, 1450753176, null, 1450753176, null, "{ }", "15th St - Prospect Park", "POINT (-73.979735806077 40.660036021685464)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-p8nf_522k-kj9t", "00000000-0000-0000-F3B7-AA9D6CD03883", 0, 1450753176, null, 1450753176, null, "{ }", "7th Ave", "POINT (-73.9802511788693 40.666245023690635)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-gy6i.irz5~vktp", "00000000-0000-0000-BEEC-6B9EE6086F73", 0, 1450753176, null, 1450753176, null, "{ }", "Ft Hamilton Pkwy", "POINT (-73.97577599885992 40.65078200098824)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-4fvm-i3fv.nge5", "00000000-0000-0000-F6C7-75BC7BC02EC8", 0, 1450753176, null, 1450753176, null, "{ }", "Church Ave", "POINT (-73.97972116167199 40.64427233346608)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-9iiz~k5pv_uk27", "00000000-0000-0000-EFCC-A2B2F9F8559D", 0, 1450753176, null, 1450753176, null, "{ }", "Beverly Rd", "POINT (-73.9643577954928 40.64390493165595)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-9erc~sdpe.8exx", "00000000-0000-0000-6DAE-B87CABDEE347", 0, 1450753176, null, 1450753176, null, "{ }", "Church Ave", "POINT (-73.96288246144869 40.6504935798757)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-kuja_ggwk-q9k2", "00000000-0000-0000-F325-6CE7572B41C6", 0, 1450753176, null, 1450753176, null, "{ }", "Newkirk Ave", "POINT (-73.96269486847974 40.63514227039474)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-c89h_pgfv-79ti", "00000000-0000-0000-BF5A-52A003CD6AEB", 0, 1450753176, null, 1450753176, null, "{ }", "Parkside Ave", "POINT (-73.96145344000783 40.65507337471708)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-56vz-fqmw.easz", "00000000-0000-0000-6EE8-351223EFD092", 0, 1450753176, null, 1450753176, null, "{ }", "Prospect Park", "POINT (-73.96203130451713 40.66163378817137)", "http://www.mta.info/nyct/subway/index.html", "B-Q-S" ]
+, [ "row-rsik~2das_cs6w", "00000000-0000-0000-3EF3-FB61721435C3", 0, 1450753176, null, 1450753176, null, "{ }", "Grand Army Plaza", "POINT (-73.97095633144298 40.67529502884244)", "http://www.mta.info/nyct/subway/index.html", "2-3-4" ]
+, [ "row-v6vd~d5yu_ae78", "00000000-0000-0000-83A9-5694BE269220", 0, 1450753176, null, 1450753176, null, "{ }", "Bergen St", "POINT (-73.97499915098913 40.68086247045291)", "http://www.mta.info/nyct/subway/index.html", "2-3-4" ]
+, [ "row-mrpc.ftpn_ymcn", "00000000-0000-0000-180D-03FB8221FAFF", 0, 1450753176, null, 1450753176, null, "{ }", "Atlantic Ave", "POINT (-73.97754993550333 40.68442049853399)", "http://www.mta.info/nyct/subway/index.html", "2-3-4-5" ]
+, [ "row-uj8y_usb7_ipxu", "00000000-0000-0000-9DAD-C6558B0AC930", 0, 1450753176, null, 1450753176, null, "{ }", "Rockaway Ave", "POINT (-73.91194599727318 40.67834033324111)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-qrnq-biwr_73qm", "00000000-0000-0000-0E2B-471689A1EE48", 0, 1450753176, null, 1450753176, null, "{ }", "Fulton St", "POINT (-73.97537499873913 40.687119332657794)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-5h4c-4syb.amw7", "00000000-0000-0000-A08D-C4F500E71654", 0, 1450753176, null, 1450753176, null, "{ }", "Clinton - Washington Aves", "POINT (-73.96679599830863 40.688094334588634)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-kg83_xcw4_scpa", "00000000-0000-0000-B2F8-79DEC73D2291", 0, 1450753176, null, 1450753176, null, "{ }", "7th Ave", "POINT (-73.97285279146314 40.677102512887046)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-smpz~76k8-dnpt", "00000000-0000-0000-C3F4-3D4F9081AF91", 0, 1450753176, null, 1450753176, null, "{ }", "Atlantic Ave", "POINT (-73.97678343931106 40.68448865643635)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-p7zh~5rky.bsfd", "00000000-0000-0000-254A-8E5F57C404C2", 0, 1450753176, null, 1450753176, null, "{ }", "Union St", "POINT (-73.98310999931782 40.67731600045995)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-q7h5-5mrk-suiv", "00000000-0000-0000-B11D-EADA0EE4AE67", 0, 1450753176, null, 1450753176, null, "{ }", "Atlantic Av - Pacific St", "POINT (-73.9788099993486 40.68366600047985)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-8yse~jneb.e3eb", "00000000-0000-0000-2546-959BB27CD92A", 0, 1450753176, null, 1450753176, null, "{ }", "Borough Hall", "POINT (-73.99015100058315 40.69240433310098)", "http://www.mta.info/nyct/subway/index.html", "4-5" ]
+, [ "row-kish~mycx~qmdy", "00000000-0000-0000-0C07-68CFCC906200", 0, 1450753176, null, 1450753176, null, "{ }", "Aqueduct Racetrack (To Manh Only)", "POINT (-73.83591899879411 40.672097332305505)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-4z2d.t8th-gbnc", "00000000-0000-0000-5BB5-DD063868ECCC", 0, 1450753176, null, 1450753176, null, "{ }", "DeKalb Ave", "POINT (-73.98182400036215 40.69063500033928)", "http://www.mta.info/nyct/subway/index.html", "B-D-N-Q-R" ]
+, [ "row-78si.fgnk_sizp", "00000000-0000-0000-BC6D-B569E6BE5464", 0, 1450753176, null, 1450753176, null, "{ }", "Morris Park", "POINT (-73.86049499998204 40.85436433270016)", "http://www.mta.info/nyct/subway/index.html", "5" ]
+, [ "row-scbd_g8kb~tysh", "00000000-0000-0000-61F9-EBD3CAB23E61", 0, 1450753176, null, 1450753176, null, "{ }", "Pelham Pkwy", "POINT (-73.85535900005993 40.8589853329393)", "http://www.mta.info/nyct/subway/index.html", "5" ]
+, [ "row-4ws8-2zqe_35zp", "00000000-0000-0000-6FF5-48E4589331B5", 0, 1450753176, null, 1450753176, null, "{ }", "Nostrand Ave", "POINT (-73.95042600048545 40.68043833310734)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-sv3t.4gi9-9kbg", "00000000-0000-0000-1E47-31C9AE1EEEAB", 0, 1450753176, null, 1450753176, null, "{ }", "Nevins St", "POINT (-73.98040679867199 40.68831091310594)", "http://www.mta.info/nyct/subway/index.html", "2-3-4-5" ]
+, [ "row-44zh_bcev-z5n7", "00000000-0000-0000-A3D7-B01F3FCB6CDC", 0, 1450753176, null, 1450753176, null, "{ }", "Eastern Pkwy - Bklyn Museum", "POINT (-73.96422203701749 40.672032568925616)", "http://www.mta.info/nyct/subway/index.html", "2-3-4" ]
+, [ "row-ewp9_2hqv~tffa", "00000000-0000-0000-C815-B91F59DA1D53", 0, 1450753176, null, 1450753176, null, "{ }", "Franklin Ave", "POINT (-73.95809973659013 40.67076548645792)", "http://www.mta.info/nyct/subway/index.html", "2-3-4-5" ]
+, [ "row-h9aa-5gr2_kcqs", "00000000-0000-0000-0D4F-0889B5345C34", 0, 1450753176, null, 1450753176, null, "{ }", "Beverly Rd", "POINT (-73.94884798335576 40.64512385265653)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-wuha-h8va.tfxa", "00000000-0000-0000-A034-122611E2D3FA", 0, 1450753176, null, 1450753176, null, "{ }", "Church Ave", "POINT (-73.94945514032199 40.65086102070915)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-7bj9-prjd.7t3b", "00000000-0000-0000-78F5-F8DCF425DEB2", 0, 1450753176, null, 1450753176, null, "{ }", "Newkirk Ave", "POINT (-73.9482999075323 40.63999157603046)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-pgmp-j94f-k7fi", "00000000-0000-0000-548C-0D62B8678AAF", 0, 1450753176, null, 1450753176, null, "{ }", "Brooklyn College - Flatbush Ave", "POINT (-73.94754120719483 40.63284274046751)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-x5qk~385d~6zjc", "00000000-0000-0000-B104-B88D1DC5E22E", 0, 1450753176, null, 1450753176, null, "{ }", "Winthrop St", "POINT (-73.9500793454169 40.65665964750449)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-hwav.33ei_yvi3", "00000000-0000-0000-A109-E6D5122C34B7", 0, 1450753176, null, 1450753176, null, "{ }", "Sterling St", "POINT (-73.95072891150406 40.66277332699014)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-uncn.seta_8b35", "00000000-0000-0000-AC92-C80D1E5DBC29", 0, 1450753176, null, 1450753176, null, "{ }", "Crown Hts - Utica Ave", "POINT (-73.93293256066349 40.66897864436661)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-ygwq~rmni_537z", "00000000-0000-0000-F454-9EAD88199BB2", 0, 1450753176, null, 1450753176, null, "{ }", "Kingston Ave", "POINT (-73.94215978326203 40.66948178160432)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-r9eb-29wv~g37k", "00000000-0000-0000-91BF-F49E7D98C36A", 0, 1450753176, null, 1450753176, null, "{ }", "Kingston - Throop Aves", "POINT (-73.94085899839129 40.67991933291405)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-wp69_bueg_x7sb", "00000000-0000-0000-3F49-08E57CC9BFD0", 0, 1450753176, null, 1450753176, null, "{ }", "Nassau Ave", "POINT (-73.95118299979704 40.72448033118355)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-6g9k_9p5a-emzk", "00000000-0000-0000-B972-59A2176840E6", 0, 1450753176, null, 1450753176, null, "{ }", "Greenpoint Ave", "POINT (-73.95442500175076 40.73126733272315)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-qqyz.fq9z-gh64", "00000000-0000-0000-3B87-220924BE7640", 0, 1450753176, null, 1450753176, null, "{ }", "Marcy Ave", "POINT (-73.95783199999856 40.7083833336101)", "http://www.mta.info/nyct/subway/index.html", "J-M-Z" ]
+, [ "row-ce8a~4bqd_jwwf", "00000000-0000-0000-8C01-8FA358029597", 0, 1450753176, null, 1450753176, null, "{ }", "Hewes St", "POINT (-73.95348800040841 40.706890331217984)", "http://www.mta.info/nyct/subway/index.html", "J-M" ]
+, [ "row-3kk2~f6yv~yvjw", "00000000-0000-0000-38E4-DAA01C6520AC", 0, 1450753176, null, 1450753176, null, "{ }", "Essex St", "POINT (-73.98740940233358 40.718306389085505)", "http://www.mta.info/nyct/subway/index.html", "J-M-Z" ]
+, [ "row-86ph.den7_mdqs", "00000000-0000-0000-63E8-B3EE789E965A", 0, 1450753176, null, 1450753176, null, "{ }", "138th St - Grand Concourse", "POINT (-73.9298489994812 40.81322433279863)", "http://www.mta.info/nyct/subway/index.html", "4-5" ]
+, [ "row-izma-t9ni-x37v", "00000000-0000-0000-0C3C-69CEE36161FB", 0, 1450753176, null, 1450753176, null, "{ }", "5th Ave - 53rd St", "POINT (-73.9752485046603 40.76008716596106)", "http://www.mta.info/nyct/subway/index.html", "E-M" ]
+, [ "row-3aku_9bb4~pi8h", "00000000-0000-0000-FD0B-59AB350181FA", 0, 1450753176, null, 1450753176, null, "{ }", "Lexington Ave - 53rd St", "POINT (-73.96907237417739 40.75746864157252)", "http://www.mta.info/nyct/subway/index.html", "E-M" ]
+, [ "row-wq8f_vw4b_47um", "00000000-0000-0000-97DE-7C67C2EFC8D4", 0, 1450753176, null, 1450753176, null, "{ }", "28th St", "POINT (-73.98869800066268 40.74545433330924)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-f7hm.88mh_fapz", "00000000-0000-0000-DB53-9107106D4173", 0, 1450753176, null, 1450753176, null, "{ }", "Herald Sq - 34th St", "POINT (-73.98793683324304 40.749644893078916)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-5jxb.a8ay_nt3c", "00000000-0000-0000-5543-9585F55B533F", 0, 1450753176, null, 1450753176, null, "{ }", "1st Ave", "POINT (-73.98168087509058 40.730975308760705)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-vk7n_y57d-8k3i", "00000000-0000-0000-F5A1-C8FADF34594A", 0, 1450753176, null, 1450753176, null, "{ }", "Grand Central - 42nd St", "POINT (-73.97918900000734 40.75276900017257)", "http://www.mta.info/nyct/subway/index.html", "S" ]
+, [ "row-it7z-wh97.x82j", "00000000-0000-0000-37B3-30D2D1C47ACB", 0, 1450753176, null, 1450753176, null, "{ }", "Times Sq - 42nd St", "POINT (-73.9862289999369 40.755983333482924)", "http://www.mta.info/nyct/subway/index.html", "S" ]
+, [ "row-fees.2bky_zr39", "00000000-0000-0000-84B0-3F824EBAB2DB", 0, 1450753176, null, 1450753176, null, "{ }", "42nd St - Bryant Pk", "POINT (-73.984590998399 40.75418433462967)", "http://www.mta.info/nyct/subway/index.html", "B-D-F-M" ]
+, [ "row-ughh~fdzh_tea7", "00000000-0000-0000-FF10-EE54F5C2BC21", 0, 1450753176, null, 1450753176, null, "{ }", "Times Sq - 42nd St", "POINT (-73.986768002027 40.754612332230856)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-xnip.qg83~yuws", "00000000-0000-0000-BCD3-85011AF644A5", 0, 1450753176, null, 1450753176, null, "{ }", "Metropolitan Ave", "POINT (-73.95142399956148 40.71277433427003)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-anr5_w525_f8ez", "00000000-0000-0000-6848-1B94D7621CE5", 0, 1450753176, null, 1450753176, null, "{ }", "Grand St", "POINT (-73.94049699898235 40.711576333817)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-8zz3-nwzc.7cuj", "00000000-0000-0000-195B-946EC59BF618", 0, 1450753176, null, 1450753176, null, "{ }", "Graham Ave", "POINT (-73.9439439978816 40.71457633149971)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-jipq-q725-mimk", "00000000-0000-0000-84FC-C5DE707EB62E", 0, 1450753176, null, 1450753176, null, "{ }", "Lorimer St", "POINT (-73.95024800019331 40.7140723341722)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-q7nd-wprq-nyca", "00000000-0000-0000-0F7C-7050AC433EC4", 0, 1450753176, null, 1450753176, null, "{ }", "Bedford Ave", "POINT (-73.95666499837023 40.71717433231373)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-dw8k-dnr8.at83", "00000000-0000-0000-B735-5FA5BC7D7557", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway", "POINT (-73.95031225595987 40.70612690984066)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-dxiu_yqym~pv79", "00000000-0000-0000-B87D-F161AD25A37F", 0, 1450753176, null, 1450753176, null, "{ }", "Lorimer St", "POINT (-73.94735499813589 40.70384433379361)", "http://www.mta.info/nyct/subway/index.html", "J-M" ]
+, [ "row-apf6.myac.zg4j", "00000000-0000-0000-BD86-32239091EFED", 0, 1450753176, null, 1450753176, null, "{ }", "Montrose Ave", "POINT (-73.93979284651334 40.70739139725247)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-dk6w-9k7i_85sy", "00000000-0000-0000-4C40-A71407383449", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St - Ely Av", "POINT (-73.94605470270504 40.74776845479483)", "http://www.mta.info/nyct/subway/index.html", "E-M" ]
+, [ "row-ir6e-qm7j.uwsr", "00000000-0000-0000-9216-5270027FF3DF", 0, 1450753176, null, 1450753176, null, "{ }", "Long Island City - Court Sq", "POINT (-73.94381559557159 40.74630536706204)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-7aag~e7dz.fn8b", "00000000-0000-0000-C030-9F630000B69C", 0, 1450753176, null, 1450753176, null, "{ }", "21st St", "POINT (-73.94959999937976 40.74412900001313)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-r6pk-mt6a-8d55", "00000000-0000-0000-2468-E4AFC4EF0373", 0, 1450753176, null, 1450753176, null, "{ }", "39th Ave", "POINT (-73.9328513760691 40.752763394559445)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-7mva.uw89~gh38", "00000000-0000-0000-610B-AC33E424E08F", 0, 1450753176, null, 1450753176, null, "{ }", "36th Ave", "POINT (-73.92986199833236 40.75644233343755)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-k692~c28f-kx88", "00000000-0000-0000-5C0C-1F860F9675E7", 0, 1450753176, null, 1450753176, null, "{ }", "145th St", "POINT (-73.95035999809508 40.82655133277471)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-7epg~chvj-qapa", "00000000-0000-0000-7840-A87D18F6D9BE", 0, 1450753176, null, 1450753176, null, "{ }", "157th St", "POINT (-73.94488999874277 40.83404133354386)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-jmdp~r2ch.qq36", "00000000-0000-0000-A241-51CA499CFFBE", 0, 1450753176, null, 1450753176, null, "{ }", "96th St", "POINT (-73.97232299948297 40.79391933441861)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-8uwv~j6ka~sdm8", "00000000-0000-0000-C833-E3BCFDDC8BD1", 0, 1450753176, null, 1450753176, null, "{ }", "103rd St", "POINT (-73.96837899924829 40.79944633394733)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-xbmc_pru7_zs4g", "00000000-0000-0000-D8BA-B3A771FBA9CE", 0, 1450753176, null, 1450753176, null, "{ }", "Central Park North (110th St)", "POINT (-73.95182200107378 40.79907533284112)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-24ag~e2th_ztzr", "00000000-0000-0000-F8B2-AA95044E818A", 0, 1450753176, null, 1450753176, null, "{ }", "103rd St", "POINT (-73.96137008216188 40.79606107356255)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-7vb8.r5tp_ysb3", "00000000-0000-0000-EE81-C19ABC3A2036", 0, 1450753176, null, 1450753176, null, "{ }", "Cathedral Pkwy (110th St)", "POINT (-73.95806670664349 40.80058189158562)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-5xnm.xpdu-cq4e", "00000000-0000-0000-2DD0-2F8FB74D285B", 0, 1450753176, null, 1450753176, null, "{ }", "72nd St", "POINT (-73.98197000104193 40.77845333395168)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-grgm~gnyw_nuhq", "00000000-0000-0000-D964-C4FACF04491F", 0, 1450753176, null, 1450753176, null, "{ }", "72nd St", "POINT (-73.97633657548654 40.77551973103465)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-vb4s~mbqb~t37z", "00000000-0000-0000-E517-F1288FABB365", 0, 1450753176, null, 1450753176, null, "{ }", "81st St", "POINT (-73.97209794941429 40.78134641772443)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-ypvu~r4c4~kbn7", "00000000-0000-0000-2D2B-A30D7D8E165A", 0, 1450753176, null, 1450753176, null, "{ }", "75th Ave", "POINT (-73.83692369317724 40.71804498706881)", "http://www.mta.info/nyct/subway/index.html", "E-F" ]
+, [ "row-5kev.fxsw.66mi", "00000000-0000-0000-9610-888123AE82A2", 0, 1450753176, null, 1450753176, null, "{ }", "Kew Gardens - Union Tpke", "POINT (-73.83037027017505 40.714035152937456)", "http://www.mta.info/nyct/subway/index.html", "E-F" ]
+, [ "row-dmwg-vzw3_rq8t", "00000000-0000-0000-C970-A4A2E505DF37", 0, 1450753176, null, 1450753176, null, "{ }", "86th St", "POINT (-73.96882849456208 40.785823379651546)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-5n56.herf~j9bd", "00000000-0000-0000-65BD-85E058DAF623", 0, 1450753176, null, 1450753176, null, "{ }", "96th St", "POINT (-73.96460245655115 40.79161913124813)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-ikn7~pdsr.zjr5", "00000000-0000-0000-AB69-743F12CD1CA0", 0, 1450753176, null, 1450753176, null, "{ }", "Cathedral Pkwy (110th St)", "POINT (-73.96684700014322 40.803967333016914)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-86gy~5yc6-xmkb", "00000000-0000-0000-B6F1-0881C6F1EE02", 0, 1450753176, null, 1450753176, null, "{ }", "116th St - Columbia University", "POINT (-73.96410999793578 40.807722334261875)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-bd32-y8wn_vaa5", "00000000-0000-0000-F880-04ECC387359F", 0, 1450753176, null, 1450753176, null, "{ }", "125th St", "POINT (-73.94549500019218 40.807754332840474)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-nu8w.gnxb.7jqg", "00000000-0000-0000-1A4C-25E58449F411", 0, 1450753176, null, 1450753176, null, "{ }", "135th St", "POINT (-73.94077000029493 40.81422933347776)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-am5a-aby9_zcxx", "00000000-0000-0000-9165-671E0DAEAE9E", 0, 1450753176, null, 1450753176, null, "{ }", "149th St - Grand Concourse", "POINT (-73.92738475430822 40.81830377684673)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-yvw2.tkaf-rfcp", "00000000-0000-0000-B58B-8B43F3CE19A3", 0, 1450753176, null, 1450753176, null, "{ }", "116th St", "POINT (-73.94962500105149 40.80209833254597)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-426w~bf7c~fvfc", "00000000-0000-0000-4F4D-697AC732EF31", 0, 1450753176, null, 1450753176, null, "{ }", "Tremont Ave", "POINT (-73.90522700088017 40.85041033318809)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-ipkj_25vk.zx7a", "00000000-0000-0000-1D6C-C8F399F3FD0A", 0, 1450753176, null, 1450753176, null, "{ }", "182nd-183rd Sts", "POINT (-73.90074099926748 40.8560933318779)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-etfx-iz8x-b3h5", "00000000-0000-0000-0940-6AEB44E81D3C", 0, 1450753176, null, 1450753176, null, "{ }", "137th St - City College", "POINT (-73.95367600034153 40.82200833264513)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-2996_vjtt.rn8f", "00000000-0000-0000-F39D-012B789C6209", 0, 1450753176, null, 1450753176, null, "{ }", "145th St", "POINT (-73.93624499890744 40.82042133297881)", "http://www.mta.info/nyct/subway/index.html", "3" ]
+, [ "row-y5qi~9mfc_2edh", "00000000-0000-0000-820A-AF71C5A21622", 0, 1450753176, null, 1450753176, null, "{ }", "176th St", "POINT (-73.91179399805148 40.84848033423412)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-ysf6.rui8-tcrz", "00000000-0000-0000-FC0C-B3A1348C3171", 0, 1450753176, null, 1450753176, null, "{ }", "Burnside Ave", "POINT (-73.90768400066499 40.853453334428735)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-zfn7-dxmw~tcjk", "00000000-0000-0000-5DE2-A0C63809C848", 0, 1450753176, null, 1450753176, null, "{ }", "170th St", "POINT (-73.91339999796051 40.83930633332876)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-ucje~qq3f-xhjc", "00000000-0000-0000-E411-362856A48113", 0, 1450753176, null, 1450753176, null, "{ }", "174th-175th Sts", "POINT (-73.91013600003978 40.84590033357212)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-ecxn.dvw4_e9wf", "00000000-0000-0000-65CD-63D5B08F1B1F", 0, 1450753176, null, 1450753176, null, "{ }", "168th St", "POINT (-73.94013299889706 40.84055633285503)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-h7js-hegr-yivx", "00000000-0000-0000-F42E-5AD3378D9EF7", 0, 1450753176, null, 1450753176, null, "{ }", "181st St", "POINT (-73.93359599981648 40.849505333296115)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-kta5.iw5i_8aa4", "00000000-0000-0000-A899-9110B6BA5D5F", 0, 1450753176, null, 1450753176, null, "{ }", "168th St", "POINT (-73.93956099987895 40.84071933346529)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-tpns.gh8u_7mck", "00000000-0000-0000-2850-5E51BFFAAD10", 0, 1450753176, null, 1450753176, null, "{ }", "191st St", "POINT (-73.9294119976112 40.855225335009216)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-yjix-bif9.cfh4", "00000000-0000-0000-0717-E0B55466534C", 0, 1450753176, null, 1450753176, null, "{ }", "175th St", "POINT (-73.93970399673837 40.84739133395404)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-jupx~22ue_x97u", "00000000-0000-0000-5C7B-7A2E87D42A3D", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 44th St", "POINT (-73.77601299886851 40.59294333262581)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-vqpc-gb8q~rj96", "00000000-0000-0000-48D2-7E8CE773DC02", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 60th St", "POINT (-73.78852199717782 40.59237433461577)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-c2bi.qmt4-zhih", "00000000-0000-0000-B33F-C969C67CAEA1", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 105th St", "POINT (-73.82758074931665 40.583268770978755)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-4w3w.jbid_2kbj", "00000000-0000-0000-3665-0016A82658AC", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 98th St", "POINT (-73.82052058872064 40.58538602425417)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-h989~ezhu_sddt", "00000000-0000-0000-B7CA-F2EC2CF11512", 0, 1450753176, null, 1450753176, null, "{ }", "Rockaway Park - Beach 116 St", "POINT (-73.83559008596322 40.58095619916644)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-u2au-88ga_2zgv", "00000000-0000-0000-2F18-66771844ECDE", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 90th St", "POINT (-73.81365140294552 40.58809189768098)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-ab29-vryv-n935", "00000000-0000-0000-949D-0EA3A6202734", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 36th St", "POINT (-73.76817499792809 40.59539833456184)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-6ti6~6xir.cydy", "00000000-0000-0000-0EA4-5B07D5D1971C", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 25th St", "POINT (-73.76135299673638 40.60006633421964)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-x65q~tyfx~yi5i", "00000000-0000-0000-1E97-B3016F5DF142", 0, 1450753176, null, 1450753176, null, "{ }", "Parsons Blvd", "POINT (-73.8032889987805 40.70757233327444)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-hzbm_yw4u-tvki", "00000000-0000-0000-500F-5CFD6E65BF71", 0, 1450753176, null, 1450753176, null, "{ }", "169th St", "POINT (-73.79347419781826 40.71051783638578)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-wfsm_9b3p~sex5", "00000000-0000-0000-CA92-9C1D56081711", 0, 1450753176, null, 1450753176, null, "{ }", "103rd St - Corona Plaza", "POINT (-73.8626999970616 40.7498653343015)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-ne5h_9yby.kzjj", "00000000-0000-0000-EA06-BE4AFAD8A936", 0, 1450753176, null, 1450753176, null, "{ }", "111th St", "POINT (-73.85533399729226 40.751730332999585)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-r8av_34pa-kjzh", "00000000-0000-0000-DCA4-EC392474108D", 0, 1450753176, null, 1450753176, null, "{ }", "63rd Dr - Rego Park", "POINT (-73.86161820029058 40.72976430547176)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-gfb5_yvky_xq6w", "00000000-0000-0000-1626-BE9D0019A9E9", 0, 1450753176, null, 1450753176, null, "{ }", "Grant Ave", "POINT (-73.86504999808713 40.67704433385241)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-spet~9aka~5geg", "00000000-0000-0000-3554-8A6BB2B355E1", 0, 1450753176, null, 1450753176, null, "{ }", "79th St", "POINT (-73.97991700040643 40.78393433274081)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-fxc6~th2k-wiqv", "00000000-0000-0000-ECF4-A8B4B86A21CC", 0, 1450753176, null, 1450753176, null, "{ }", "Atlantic Ave", "POINT (-73.90309699915753 40.675344999443105)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-2zsi~366s.e3ee", "00000000-0000-0000-EB7C-0B72BE9BCC5A", 0, 1450753176, null, 1450753176, null, "{ }", "Christopher St - Sheridan Sq", "POINT (-74.002905998897 40.73342233397504)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-t5e2.xr83~8mcz", "00000000-0000-0000-CE9B-ED27F09FA389", 0, 1450753176, null, 1450753176, null, "{ }", "E 149th St", "POINT (-73.90409799796717 40.812118331738084)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-cfj8.xi2v.2xf9", "00000000-0000-0000-0306-8A61919B730D", 0, 1450753176, null, 1450753176, null, "{ }", "Ozone Park - Lefferts Blvd", "POINT (-73.8257979983959 40.68595133199964)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-54qy_tz9u.fmrv", "00000000-0000-0000-4A0D-E90D267E7815", 0, 1450753176, null, 1450753176, null, "{ }", "Times Sq - 42nd St", "POINT (-73.98769099766001 40.75547733499068)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-y6rs~tmiy.icrm", "00000000-0000-0000-002B-CBDFD23BA024", 0, 1450753176, null, 1450753176, null, "{ }", "77th St", "POINT (-73.9598739980726 40.77362033401498)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-twrw_c3j6.sebf", "00000000-0000-0000-EBF7-D143B67F8ABE", 0, 1450753176, null, 1450753176, null, "{ }", "Woodside - 61st St", "POINT (-73.90298400085238 40.74563033401391)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-cs7y.nbk8_cby6", "00000000-0000-0000-479F-AEC531999376", 0, 1450753176, null, 1450753176, null, "{ }", "111th St", "POINT (-73.83216299793189 40.68433133342542)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-jz4z~cbqf.b4hb", "00000000-0000-0000-0B0D-74DC57B64A50", 0, 1450753176, null, 1450753176, null, "{ }", "Flushing - Main St", "POINT (-73.83003000183344 40.75960033237315)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-fz8p-nyuf~jzjj", "00000000-0000-0000-23BD-4EF5A189D08B", 0, 1450753176, null, 1450753176, null, "{ }", "W 8th St - NY Aquarium", "POINT (-73.97595787404076 40.57603415120005)", "http://www.mta.info/nyct/subway/index.html", "F-Q" ]
+, [ "row-xjx2~nxvw-cu4a", "00000000-0000-0000-C0D1-33F1BFCC9C1C", 0, 1450753176, null, 1450753176, null, "{ }", "28th St", "POINT (-73.99336500139277 40.74721533235655)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-nvq4~y6ew~757k", "00000000-0000-0000-9D80-732AB97D243B", 0, 1450753176, null, 1450753176, null, "{ }", "28th St", "POINT (-73.98426400149621 40.74307033282793)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-ykcz.e3vq.besd", "00000000-0000-0000-26D2-2064354F89B4", 0, 1450753176, null, 1450753176, null, "{ }", "Pelham Bay Park", "POINT (-73.82812099995719 40.852462333145894)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-itde-b727~4bx9", "00000000-0000-0000-3F62-F025E35FB64C", 0, 1450753176, null, 1450753176, null, "{ }", "Westchester Sq - E Tremont Ave", "POINT (-73.84295199835405 40.839892334397746)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-nnpw~bntr~8am2", "00000000-0000-0000-401D-3D293FB91B36", 0, 1450753176, null, 1450753176, null, "{ }", "18th St", "POINT (-73.99787100112236 40.741040332966726)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-2w8z.szev-hk42", "00000000-0000-0000-BBB8-F966A7B88BE1", 0, 1450753176, null, 1450753176, null, "{ }", "Grand Central - 42nd St", "POINT (-73.97671329936165 40.75180776311499)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-dg8t-kwzm_8ub6", "00000000-0000-0000-91D7-C385B6EF76B3", 0, 1450753176, null, 1450753176, null, "{ }", "Grand Central - 42nd St", "POINT (-73.9760410011979 40.75143133351694)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-t8mm~v4bg-v49i", "00000000-0000-0000-B308-868BCB6F6E80", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St", "POINT (-74.00019299900356 40.718803334727426)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-44ix~i8ee~b76d", "00000000-0000-0000-3232-2FC14BE1DDE6", 0, 1450753176, null, 1450753176, null, "{ }", "Beach 67th St", "POINT (-73.79692399899525 40.590927334290434)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-iht6_jvsh-z9d4", "00000000-0000-0000-02D4-5FA370AA8994", 0, 1450753176, null, 1450753176, null, "{ }", "W 4th St - Washington Sq (Upper)", "POINT (-74.00049500225549 40.73233833138155)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-z2g6_irxz.uhgq", "00000000-0000-0000-F4CC-6A365FC1E390", 0, 1450753176, null, 1450753176, null, "{ }", "67th Ave", "POINT (-73.85286048368066 40.72650580934677)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-gv4q.27sk_xjuv", "00000000-0000-0000-67CD-BCC4EFE09B2A", 0, 1450753176, null, 1450753176, null, "{ }", "85th St - Forest Pky", "POINT (-73.86008699933834 40.692427333043625)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-qq2h-82vu_euky", "00000000-0000-0000-B4FF-DDE4BA9B53CF", 0, 1450753176, null, 1450753176, null, "{ }", "Woodhaven Blvd", "POINT (-73.85205199698804 40.69370433254967)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-nytr~6iqa~scpc", "00000000-0000-0000-E843-B7FFDAA00FB7", 0, 1450753176, null, 1450753176, null, "{ }", "111th St", "POINT (-73.83679338317 40.69711514442172)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-khg9~fq8e_3wdr", "00000000-0000-0000-0704-9B447DBD050E", 0, 1450753176, null, 1450753176, null, "{ }", "121st St", "POINT (-73.82834899922645 40.70048233167487)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-pkj3-embj~5ydi", "00000000-0000-0000-8CBE-4654C43BDD3A", 0, 1450753176, null, 1450753176, null, "{ }", "Sutphin Blvd - Archer Av", "POINT (-73.80800471916443 40.70038275752361)", "http://www.mta.info/nyct/subway/index.html", "E-J-Z" ]
+, [ "row-pven-qcps-difg", "00000000-0000-0000-1893-264C41536FF5", 0, 1450753176, null, 1450753176, null, "{ }", "Halsey St", "POINT (-73.90393400047114 40.69551833448191)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-7fyk~ccrc~bzrd", "00000000-0000-0000-AD18-94C6B8D5C2CB", 0, 1450753176, null, 1450753176, null, "{ }", "Myrtle Ave", "POINT (-73.91097571780219 40.69947139533809)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-2gpd~6j7h.dez7", "00000000-0000-0000-D2F9-B0746243A8DA", 0, 1450753176, null, 1450753176, null, "{ }", "New Lots Ave", "POINT (-73.8841107078647 40.666315265574426)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-jffb-vcab_am3z", "00000000-0000-0000-A978-E71F279C20F1", 0, 1450753176, null, 1450753176, null, "{ }", "Van Siclen Ave", "POINT (-73.88940491629894 40.66551829666946)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-78g6.wjbd.ajkc", "00000000-0000-0000-FF16-45018EA9814E", 0, 1450753176, null, 1450753176, null, "{ }", "Pennsylvania Ave", "POINT (-73.89488591124234 40.66471478435396)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-4p8y.jjib.jfzx", "00000000-0000-0000-CFDD-EDA08AE45824", 0, 1450753176, null, 1450753176, null, "{ }", "Van Siclen Ave", "POINT (-73.89035799977019 40.67271033212401)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-yn3r.u6v6-wqsm", "00000000-0000-0000-73A3-7BB921FF44B6", 0, 1450753176, null, 1450753176, null, "{ }", "Van Siclen Ave", "POINT (-73.89165772599068 40.67802854813373)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-k5fw-6amy_9vne", "00000000-0000-0000-60DE-2AB8DA47B861", 0, 1450753176, null, 1450753176, null, "{ }", "Cleveland St", "POINT (-73.8851940012429 40.679778332299975)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-zivk_62di-veb4", "00000000-0000-0000-0B40-F75CDFD9ACD6", 0, 1450753176, null, 1450753176, null, "{ }", "Livonia Ave", "POINT (-73.90056237156317 40.664057604182275)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-3rjy_k3s3-z9vu", "00000000-0000-0000-6233-9CB9ADEC192A", 0, 1450753176, null, 1450753176, null, "{ }", "Sutter Ave", "POINT (-73.90191599959435 40.66914533375269)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-uvxs~yf3r~uwzq", "00000000-0000-0000-5DF8-B84D80E65946", 0, 1450753176, null, 1450753176, null, "{ }", "Junius St", "POINT (-73.90244864097313 40.66358933490929)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-gzhb~4r2e-x5v6", "00000000-0000-0000-C83A-F455C5AEF312", 0, 1450753176, null, 1450753176, null, "{ }", "Rockaway Ave", "POINT (-73.9089583356391 40.66261782103152)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-ax59~x35t-kd2x", "00000000-0000-0000-DFE0-3C361E3910BF", 0, 1450753176, null, 1450753176, null, "{ }", "Canarsie - Rockaway Pkwy", "POINT (-73.901849999934 40.64665400044553)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-njm5-6ezs~zz5b", "00000000-0000-0000-3EBD-6D1B368E4632", 0, 1450753176, null, 1450753176, null, "{ }", "E 105th St", "POINT (-73.89954769314163 40.650469118412055)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-gmi4-75d3~ydr5", "00000000-0000-0000-7F1E-C5EFDA36F9ED", 0, 1450753176, null, 1450753176, null, "{ }", "Saratoga Ave", "POINT (-73.91633024966043 40.66153012321424)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-vqcy~7vup-k5aj", "00000000-0000-0000-CD85-749A9C854C42", 0, 1450753176, null, 1450753176, null, "{ }", "Sutter Ave - Rutland Road", "POINT (-73.92252118506703 40.664767122207614)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-v5zv-wxrn.dec2", "00000000-0000-0000-817B-321FD25AB0B6", 0, 1450753176, null, 1450753176, null, "{ }", "New Lots Ave", "POINT (-73.89927796012282 40.65891510689037)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-macu~t452.e9ty", "00000000-0000-0000-F928-85A04A0D40B9", 0, 1450753176, null, 1450753176, null, "{ }", "Far Rockaway - Mott Ave", "POINT (-73.7554049978951 40.60399533472034)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-dgyw_5e6d_s3us", "00000000-0000-0000-ED8C-5B58BDEED19D", 0, 1450753176, null, 1450753176, null, "{ }", "Chauncey St", "POINT (-73.91038356930946 40.682851634494526)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-nxpm.mu2r.u3k2", "00000000-0000-0000-7422-76E673D80D48", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway Junction", "POINT (-73.9042899974254 40.679366334574624)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-qeur.8vhd.bqb6", "00000000-0000-0000-FD38-86B962FE90B4", 0, 1450753176, null, 1450753176, null, "{ }", "Halsey St", "POINT (-73.91663888395097 40.68641560444364)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-d7mj_8cx8-3sbm", "00000000-0000-0000-2181-B22FC9FD87FE", 0, 1450753176, null, 1450753176, null, "{ }", "Alabama Ave", "POINT (-73.89852600099044 40.67699833360107)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-tauj-x82r-sxh5", "00000000-0000-0000-A7DA-5F0E9EE93C19", 0, 1450753176, null, 1450753176, null, "{ }", "Shepherd Ave", "POINT (-73.88074999710298 40.67413033485932)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-g7w6_5i69_3ukz", "00000000-0000-0000-2ADF-1B0BEF1A315F", 0, 1450753176, null, 1450753176, null, "{ }", "Norwood Ave", "POINT (-73.87962599833826 40.68152033389478)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-5i74.mxxr.t5zi", "00000000-0000-0000-BB70-7F75BCCFFD95", 0, 1450753176, null, 1450753176, null, "{ }", "Crescent St", "POINT (-73.87392925190409 40.68315299047885)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-gabb-vhby~tm6y", "00000000-0000-0000-5BB0-5B27A4603AB3", 0, 1450753176, null, 1450753176, null, "{ }", "Cypress Hills", "POINT (-73.87332199828757 40.689616334196266)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-ppzt-8eit~zdwx", "00000000-0000-0000-315B-A5ADC24D42ED", 0, 1450753176, null, 1450753176, null, "{ }", "75th St - Eldert Ln", "POINT (-73.8672879987574 40.69129033462167)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-g8d7~upr3-cht3", "00000000-0000-0000-00D3-5002CA22346F", 0, 1450753176, null, 1450753176, null, "{ }", "69th St", "POINT (-73.89640299838608 40.746325332824334)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-cxg4.hdc8~3kdi", "00000000-0000-0000-44C1-9C26EA0DE32E", 0, 1450753176, null, 1450753176, null, "{ }", "74th St - Broadway", "POINT (-73.8912051283828 40.746867907409886)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-xv4f.mgyg.ea68", "00000000-0000-0000-2251-92410AF3952A", 0, 1450753176, null, 1450753176, null, "{ }", "65th St", "POINT (-73.89878837766967 40.74971986271151)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-bg4q~espi~rmgw", "00000000-0000-0000-D9BE-CCD226653664", 0, 1450753176, null, 1450753176, null, "{ }", "Woodhaven Blvd - Queens Mall", "POINT (-73.86943208499206 40.73309770715039)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-zqrm-7agi.hrk6", "00000000-0000-0000-58C1-51B6282B6C3E", 0, 1450753176, null, 1450753176, null, "{ }", "Wyckoff Ave", "POINT (-73.91217899875637 40.699454334648586)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-acr8-mcef.8z6y", "00000000-0000-0000-ED22-EB59059292B7", 0, 1450753176, null, 1450753176, null, "{ }", "Seneca Ave", "POINT (-73.9075819984298 40.70291933262727)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-6wvp_rxug~jf4y", "00000000-0000-0000-2E63-A1183FF045CD", 0, 1450753176, null, 1450753176, null, "{ }", "DeKalb Ave", "POINT (-73.91823200153044 40.70369333256863)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-t4ua_4ybe_m5j5", "00000000-0000-0000-D31B-DF906A6A8E13", 0, 1450753176, null, 1450753176, null, "{ }", "52nd St", "POINT (-73.91254899814022 40.7441493343501)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-5y9v-a24m_29wt", "00000000-0000-0000-109A-590DA6C762E1", 0, 1450753176, null, 1450753176, null, "{ }", "46th St", "POINT (-73.91352175005927 40.75631728599804)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-sunf_dtqj-a3dg", "00000000-0000-0000-D8DE-1CE2115247F9", 0, 1450753176, null, 1450753176, null, "{ }", "Northern Blvd", "POINT (-73.90606508028196 40.75282516296223)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-2nf9-ewqe.kn5q", "00000000-0000-0000-3B19-DB62289B5187", 0, 1450753176, null, 1450753176, null, "{ }", "46th St", "POINT (-73.91843500055474 40.74313233412849)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-s6jr.kwzb_n6fu", "00000000-0000-0000-791B-BC7945D32516", 0, 1450753176, null, 1450753176, null, "{ }", "82nd St - Jackson Hts", "POINT (-73.88369699986349 40.74765933320238)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-9ah7~asqp.u34z", "00000000-0000-0000-26EE-203B03DD41F0", 0, 1450753176, null, 1450753176, null, "{ }", "90th St - Elmhurst Av", "POINT (-73.87661299894202 40.748408334002924)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-9rdh.prhk.ybrm", "00000000-0000-0000-4F2C-B1A197D08108", 0, 1450753176, null, 1450753176, null, "{ }", "Grand Ave - Newtown", "POINT (-73.87722085593703 40.73681375120887)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-yqv2-t3ar~zxhj", "00000000-0000-0000-8E58-E24C8A6D6B89", 0, 1450753176, null, 1450753176, null, "{ }", "Elmhurst Ave", "POINT (-73.88203474588971 40.74237041300368)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-bce4.j5ph_pp47", "00000000-0000-0000-344B-840B39BB0F7B", 0, 1450753176, null, 1450753176, null, "{ }", "Howard Beach - JFK Airport", "POINT (-73.83030099930434 40.660476333123206)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-8224_95rj_bxnm", "00000000-0000-0000-A0B6-A634E678A440", 0, 1450753176, null, 1450753176, null, "{ }", "Aqueduct - North Conduit Av", "POINT (-73.83405799882622 40.66823433458028)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-xuse_572u.37km", "00000000-0000-0000-AA3A-8B00FF85E8AC", 0, 1450753176, null, 1450753176, null, "{ }", "104th-102nd Sts", "POINT (-73.84443499900195 40.695166331888885)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-xzc9.hhti_ncup", "00000000-0000-0000-7073-A69616DF2E31", 0, 1450753176, null, 1450753176, null, "{ }", "Briarwood - Van Wyck Blvd", "POINT (-73.82069263553905 40.709162148863335)", "http://www.mta.info/nyct/subway/index.html", "E-F" ]
+, [ "row-cqqh.5r5r~i2gz", "00000000-0000-0000-73FE-4639F435F628", 0, 1450753176, null, 1450753176, null, "{ }", "Forest Hills - 71st Av", "POINT (-73.84451671920691 40.72159464293687)", "http://www.mta.info/nyct/subway/index.html", "E-F-M-R" ]
+, [ "row-ewux-sazd-6xpm", "00000000-0000-0000-53EA-8BD8602D3540", 0, 1450753176, null, 1450753176, null, "{ }", "Sutphin Blvd", "POINT (-73.81083299827169 40.70541833253)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-xqgp~twqt.ckdh", "00000000-0000-0000-B7CB-538848B18282", 0, 1450753176, null, 1450753176, null, "{ }", "Jamaica - Van Wyck", "POINT (-73.81701287026034 40.70289888659826)", "http://www.mta.info/nyct/subway/index.html", "E" ]
+, [ "row-cujt.2y7z~jf25", "00000000-0000-0000-B568-B5AC3EBC1182", 0, 1450753176, null, 1450753176, null, "{ }", "Jamaica Ctr - Parsons / Archer", "POINT (-73.80109632198113 40.70206770924661)", "http://www.mta.info/nyct/subway/index.html", "E-J-Z" ]
+, [ "row-6nnv_bace-n4rx", "00000000-0000-0000-BE66-7C22433EDCDA", 0, 1450753176, null, 1450753176, null, "{ }", "Simpson St", "POINT (-73.89306639471833 40.82397717486102)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-xkju~v9g3~eydv", "00000000-0000-0000-C88D-EC2C1C174DDA", 0, 1450753176, null, 1450753176, null, "{ }", "Freeman St", "POINT (-73.89175225285328 40.8299877799453)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-iqfz~3kri-vhsx", "00000000-0000-0000-BF57-9F50AE4E2442", 0, 1450753176, null, 1450753176, null, "{ }", "225th St", "POINT (-73.86021461686795 40.88802859157574)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-w7g2.ndnm~i4gf", "00000000-0000-0000-9C4D-CA5AC97C7A74", 0, 1450753176, null, 1450753176, null, "{ }", "Elder Ave", "POINT (-73.87915899781727 40.82858433457284)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-h8cn.i2yh~ayia", "00000000-0000-0000-8BD5-BC806661D48E", 0, 1450753176, null, 1450753176, null, "{ }", "Morrison Av - Soundview", "POINT (-73.87451599884423 40.829521335098256)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-ipa9-fvgs-naef", "00000000-0000-0000-594F-C1EEB993B609", 0, 1450753176, null, 1450753176, null, "{ }", "Longwood Ave", "POINT (-73.89643499864899 40.81610433364345)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-62s5-j4dm.jyti", "00000000-0000-0000-167C-24831C6A77F5", 0, 1450753176, null, 1450753176, null, "{ }", "Astoria Blvd", "POINT (-73.91809500082121 40.770037332517354)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-9s46.ewvd~jg5i", "00000000-0000-0000-311A-053DB8A4B807", 0, 1450753176, null, 1450753176, null, "{ }", "Astoria - Ditmars Blvd", "POINT (-73.91203400018503 40.7750359996785)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-aik2-yjaz~fp5t", "00000000-0000-0000-2612-02976A44D4E5", 0, 1450753176, null, 1450753176, null, "{ }", "Jackson Ave", "POINT (-73.90770193853471 40.816437799808796)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-vkw7~ymzb.rqza", "00000000-0000-0000-622B-B200208E46A6", 0, 1450753176, null, 1450753176, null, "{ }", "Prospect Ave", "POINT (-73.9017777862438 40.81948759780675)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-3fay~t4n7~tc9m", "00000000-0000-0000-CC6F-2663C5473901", 0, 1450753176, null, 1450753176, null, "{ }", "Cypress Ave", "POINT (-73.91404199941688 40.80536833435186)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-qag4-dmtw~qg9m", "00000000-0000-0000-E910-6D3616F3BB9A", 0, 1450753176, null, 1450753176, null, "{ }", "Whitlock Ave", "POINT (-73.88628299832433 40.82652533380191)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-je5v_ipbb_fxty", "00000000-0000-0000-EAFB-B3E44F0B030A", 0, 1450753176, null, 1450753176, null, "{ }", "Intervale Ave", "POINT (-73.8966173835841 40.82214246442492)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-5hkt.6z3j-sivs", "00000000-0000-0000-44ED-F5611557A241", 0, 1450753176, null, 1450753176, null, "{ }", "174th St", "POINT (-73.88769359751684 40.837195883313186)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-a6km.5cd9-ysf4", "00000000-0000-0000-535E-0F79DF3FEB72", 0, 1450753176, null, 1450753176, null, "{ }", "Pelham Pkwy", "POINT (-73.86748067761889 40.85719274250162)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-hgyk_pzzh_57fb", "00000000-0000-0000-C811-23BA41320C8C", 0, 1450753176, null, 1450753176, null, "{ }", "Allerton Ave", "POINT (-73.86723422776349 40.86548371157605)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-minq_zyay~rkgs", "00000000-0000-0000-373C-9DAEB060F37A", 0, 1450753176, null, 1450753176, null, "{ }", "E 143rd St - St Mary's St", "POINT (-73.90765699883949 40.808719334136455)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-ifds.d2gb_xbqz", "00000000-0000-0000-C128-E19BB4267BFA", 0, 1450753176, null, 1450753176, null, "{ }", "Kingsbridge Rd", "POINT (-73.89717400101911 40.867760333744734)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-rhq8.4fnq.ssjm", "00000000-0000-0000-E01D-28B3A824C48A", 0, 1450753176, null, 1450753176, null, "{ }", "Bedford Park Blvd - Lehman College", "POINT (-73.89006400056154 40.8734123326929)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-38t8_gtet_s5k7", "00000000-0000-0000-2D1B-1B670E76D68B", 0, 1450753176, null, 1450753176, null, "{ }", "Harlem - 148 St", "POINT (-73.93646999991873 40.82388033407589)", "http://www.mta.info/nyct/subway/index.html", "3" ]
+, [ "row-q5y3.qzyg_tnf7", "00000000-0000-0000-2EBE-8923104BA6A0", 0, 1450753176, null, 1450753176, null, "{ }", "Mt Eden Ave", "POINT (-73.91468499864928 40.844434333833284)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-5b3b~zpha_9f68", "00000000-0000-0000-AD9F-F868D246D166", 0, 1450753176, null, 1450753176, null, "{ }", "Fordham Rd", "POINT (-73.89774900076851 40.86129633182038)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-4ay2_vk88-ukhg", "00000000-0000-0000-90D3-AFE4DF037DEF", 0, 1450753176, null, 1450753176, null, "{ }", "170th St", "POINT (-73.91779099709355 40.84007533283499)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-xrpy-twcz_p5kj", "00000000-0000-0000-E138-A0CE15D66EFE", 0, 1450753176, null, 1450753176, null, "{ }", "Kingsbridge Rd", "POINT (-73.89350900003097 40.86697833331913)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-rf48_w3sj.apxk", "00000000-0000-0000-FF8A-A8A48C5FB374", 0, 1450753176, null, 1450753176, null, "{ }", "Bedford Park Blvd", "POINT (-73.88713799869915 40.87324433171974)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-5crs.bbex~qnfq", "00000000-0000-0000-DB54-071013163F03", 0, 1450753176, null, 1450753176, null, "{ }", "Marble Hill - 225th St", "POINT (-73.90983099891776 40.87456133275337)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-9qjr~2qpz~wk3v", "00000000-0000-0000-26FA-932146789935", 0, 1450753176, null, 1450753176, null, "{ }", "231st St", "POINT (-73.90483400042638 40.87885633187432)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-sn2p.9k6u~n2ut", "00000000-0000-0000-26DF-91BD1F218AFA", 0, 1450753176, null, 1450753176, null, "{ }", "215th St", "POINT (-73.91527899930841 40.869444332904905)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-bicw-ej28~iunv", "00000000-0000-0000-1970-CE0A3B4B1C4D", 0, 1450753176, null, 1450753176, null, "{ }", "207th St", "POINT (-73.91881900072042 40.864614333714016)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-27mf.ypcp-cxxt", "00000000-0000-0000-3A75-3624D326AE64", 0, 1450753176, null, 1450753176, null, "{ }", "Inwood - 207th St", "POINT (-73.91989900076265 40.8680723332653)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-66am_3xgj~i43b", "00000000-0000-0000-A819-FE5CD8DC7366", 0, 1450753176, null, 1450753176, null, "{ }", "238th St", "POINT (-73.90086999936261 40.884667334326366)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-wai8~xm4s.zswi", "00000000-0000-0000-1224-3A8A2AA00070", 0, 1450753176, null, 1450753176, null, "{ }", "Van Cortlandt Park - 242nd St", "POINT (-73.89858299979814 40.88924833345021)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-zv8e_r7q7_2tei", "00000000-0000-0000-37F7-27B5AEAEB3FC", 0, 1450753176, null, 1450753176, null, "{ }", "West Farms Sq - E Tremont Av", "POINT (-73.87996127809559 40.84020796544077)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-wfh8.2ptz_g43z", "00000000-0000-0000-C7FF-B4A7C8E353F8", 0, 1450753176, null, 1450753176, null, "{ }", "St Lawrence Ave", "POINT (-73.86761799826303 40.83150933406975)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-5nmx~jqx7.rcdw", "00000000-0000-0000-F53B-A85AD0C53283", 0, 1450753176, null, 1450753176, null, "{ }", "Bronx Park East", "POINT (-73.86835609123708 40.848768999811156)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-qmeq-w7qn-jvh3", "00000000-0000-0000-21C8-20E3869F2F12", 0, 1450753176, null, 1450753176, null, "{ }", "Gun Hill Rd", "POINT (-73.86613410422373 40.87783971871569)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-de34-9y6q~ip4x", "00000000-0000-0000-8794-2928D29AE849", 0, 1450753176, null, 1450753176, null, "{ }", "219th St", "POINT (-73.8625097074803 40.88388830753444)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-ijwj.3rx9.wx7p", "00000000-0000-0000-BD8F-E1F674173065", 0, 1450753176, null, 1450753176, null, "{ }", "Mosholu Pkwy", "POINT (-73.88465499988884 40.87975033296914)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-8sx3_3p9n~tgzu", "00000000-0000-0000-E2E3-9E9FC2B92953", 0, 1450753176, null, 1450753176, null, "{ }", "Norwood - 205th St", "POINT (-73.87885499849918 40.874811333682345)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-xtqz.x6j4-atup", "00000000-0000-0000-F3B7-CEBC3F37D4FC", 0, 1450753176, null, 1450753176, null, "{ }", "Burke Ave", "POINT (-73.86705361677089 40.87125913561442)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-f4bf_ihxg-4v6m", "00000000-0000-0000-6AC6-5E10E59B6470", 0, 1450753176, null, 1450753176, null, "{ }", "Baychester Ave", "POINT (-73.83859099777192 40.87866333374528)", "http://www.mta.info/nyct/subway/index.html", "5" ]
+, [ "row-7e6w-ykub.ugjr", "00000000-0000-0000-A271-5FD95DFB074A", 0, 1450753176, null, 1450753176, null, "{ }", "Eastchester - Dyre Ave", "POINT (-73.83083400082742 40.88830033249039)", "http://www.mta.info/nyct/subway/index.html", "5" ]
+, [ "row-wkhx.sai4.v552", "00000000-0000-0000-3BF5-D2933EB24222", 0, 1450753176, null, 1450753176, null, "{ }", "Jamaica - 179th St", "POINT (-73.78381700044153 40.712645999940975)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-869w-izsr.9bb7", "00000000-0000-0000-1879-FDBAEFD9A7A0", 0, 1450753176, null, 1450753176, null, "{ }", "Wakefield - 241st St", "POINT (-73.85061999835273 40.90312533408352)", "http://www.mta.info/nyct/subway/index.html", "2" ]
+, [ "row-cd4d~nqrx-5dyc", "00000000-0000-0000-81DE-4E2B380F2673", 0, 1450753176, null, 1450753176, null, "{ }", "Botanic Garden", "POINT (-73.95924499975295 40.670342999976114)", "http://www.mta.info/nyct/subway/index.html", "S" ]
+, [ "row-3cv2_cftm~kqru", "00000000-0000-0000-BBA2-53DA9F5FC02D", 0, 1450753176, null, 1450753176, null, "{ }", "Bushwick - Aberdeen", "POINT (-73.90526176227334 40.682860958491204)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-vs2b_u4yf_xyeb", "00000000-0000-0000-A2E5-B983E271682C", 0, 1450753176, null, 1450753176, null, "{ }", "Wilson Ave", "POINT (-73.90395860493146 40.68886687533081)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-a77u~tcgz-aer4", "00000000-0000-0000-06A8-2BA7782E962C", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway Junction", "POINT (-73.90311757843438 40.67845658203403)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-an7y_gwuz~dzdg", "00000000-0000-0000-6C1D-55C61CC47738", 0, 1450753176, null, 1450753176, null, "{ }", "Gun Hill Rd", "POINT (-73.84638400102972 40.86952633288799)", "http://www.mta.info/nyct/subway/index.html", "5" ]
+, [ "row-m723_aeg2.fmfd", "00000000-0000-0000-E925-187332C55F1D", 0, 1450753176, null, 1450753176, null, "{ }", "E 180th St", "POINT (-73.87334609435007 40.84186337449904)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-pa95_wg6u~gds8", "00000000-0000-0000-5C43-ECAEB6B6351F", 0, 1450753176, null, 1450753176, null, "{ }", "Dyckman St", "POINT (-73.92553599977501 40.86053133457367)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-jw35~bsix-mmn8", "00000000-0000-0000-1EF4-4626EC29DB60", 0, 1450753176, null, 1450753176, null, "{ }", "125th St", "POINT (-73.95837200092977 40.8155813329265)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-6ehv-v6n6-ctvk", "00000000-0000-0000-610B-269B9885EB44", 0, 1450753176, null, 1450753176, null, "{ }", "Park Pl", "POINT (-73.95762400033107 40.674771999887255)", "http://www.mta.info/nyct/subway/index.html", "S" ]
+, [ "row-7f2w.vff8-5dtt", "00000000-0000-0000-A342-6A8796BC8E06", 0, 1450753176, null, 1450753176, null, "{ }", "Franklin Ave - Fulton St", "POINT (-73.95582700108798 40.68059599942808)", "http://www.mta.info/nyct/subway/index.html", "S" ]
+, [ "row-7zu5-9qqa.yv4x", "00000000-0000-0000-01E4-8A7B2A1AEAC4", 0, 1450753176, null, 1450753176, null, "{ }", "Nereid Ave (238 St)", "POINT (-73.85431530997917 40.898286849118136)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-7wdf~22nx.m8ya", "00000000-0000-0000-ABE9-5744403C5DB9", 0, 1450753176, null, 1450753176, null, "{ }", "149th St - Grand Concourse", "POINT (-73.9267224745775 40.81833047711118)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-nna3~5bqf~qrgh", "00000000-0000-0000-5E4A-1FCEDA28FE23", 0, 1450753176, null, 1450753176, null, "{ }", "3rd Ave - 149th St", "POINT (-73.91779152703793 40.816029585709344)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-pgu9_isz8.sqeq", "00000000-0000-0000-7B1A-82ECC094023F", 0, 1450753176, null, 1450753176, null, "{ }", "161st St - Yankee Stadium", "POINT (-73.92569199495203 40.82823066063588)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-tx9g.kgv6-q8iy", "00000000-0000-0000-4201-CFC37A9D98DC", 0, 1450753176, null, 1450753176, null, "{ }", "167th St", "POINT (-73.92139999756648 40.83553733302143)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-ddqa_ene7~8iet", "00000000-0000-0000-9462-0AB916648BAC", 0, 1450753176, null, 1450753176, null, "{ }", "Brook Ave", "POINT (-73.9192399981735 40.80756633325041)", "http://www.mta.info/nyct/subway/index.html", "6" ]
+, [ "row-azpm~fwnb.tsnx", "00000000-0000-0000-D426-5463F66180C8", 0, 1450753176, null, 1450753176, null, "{ }", "33rd St", "POINT (-73.93099699873846 40.744587333592726)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-euvb~e5k8~xfxi", "00000000-0000-0000-1B39-235EFB1DFEB4", 0, 1450753176, null, 1450753176, null, "{ }", "40th St", "POINT (-73.9240159980613 40.743781334697424)", "http://www.mta.info/nyct/subway/index.html", "7" ]
+, [ "row-za6w~ny7z.xcdq", "00000000-0000-0000-6441-4010550C48F0", 0, 1450753176, null, 1450753176, null, "{ }", "145th St", "POINT (-73.94408792835779 40.82476669406457)", "http://www.mta.info/nyct/subway/index.html", "A-B-C-D" ]
+, [ "row-87dy-rnd3-tvi6", "00000000-0000-0000-8900-16F63A4A1943", 0, 1450753176, null, 1450753176, null, "{ }", "155th St", "POINT (-73.93820899809954 40.83013533321578)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-74mc~55ij-79xh", "00000000-0000-0000-9CF6-52F191411810", 0, 1450753176, null, 1450753176, null, "{ }", "161st St - Yankee Stadium", "POINT (-73.92565099751474 40.82790533241327)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-9p8x_gyfj~e5ju", "00000000-0000-0000-53D8-1DAB83B4AD84", 0, 1450753176, null, 1450753176, null, "{ }", "167th St", "POINT (-73.91843200077082 40.83376933205918)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-2fhs~u9af-78ed", "00000000-0000-0000-EE44-5B154325B069", 0, 1450753176, null, 1450753176, null, "{ }", "Ralph Ave", "POINT (-73.92078599919046 40.678822334523645)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-gmtb_csb6~4ztt", "00000000-0000-0000-305A-498703C04953", 0, 1450753176, null, 1450753176, null, "{ }", "Utica Ave", "POINT (-73.93072899845322 40.67936433301651)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-nkjd_kjex.zmr5", "00000000-0000-0000-C687-DCE372FDAB5D", 0, 1450753176, null, 1450753176, null, "{ }", "36th St", "POINT (-73.92901818470385 40.751960377482355)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-q48q_wvk7~eutz", "00000000-0000-0000-3BCC-CCFFDC1C0C59", 0, 1450753176, null, 1450753176, null, "{ }", "Steinway St", "POINT (-73.92052647104094 40.756987692724486)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-ubvg~bajq.59yj", "00000000-0000-0000-7224-AFAA8A3EEE7D", 0, 1450753176, null, 1450753176, null, "{ }", "Kosciuszko St", "POINT (-73.92850899856917 40.69317233423697)", "http://www.mta.info/nyct/subway/index.html", "J" ]
+, [ "row-p37r-txs7.n7dh", "00000000-0000-0000-A768-5C328123BB46", 0, 1450753176, null, 1450753176, null, "{ }", "Gates Ave", "POINT (-73.92215600058701 40.68958433256818)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-xuud_r94g~pd4b", "00000000-0000-0000-3573-965FB461D96B", 0, 1450753176, null, 1450753176, null, "{ }", "Central Ave", "POINT (-73.9272429982954 40.69787333339047)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-2wj9_bqcu~ysad", "00000000-0000-0000-56E3-E13C5BABF53E", 0, 1450753176, null, 1450753176, null, "{ }", "Knickerbocker Ave", "POINT (-73.91972000097114 40.698660334772896)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-ymtu-762p-sug4", "00000000-0000-0000-C6A8-E2C107A49E40", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway", "POINT (-73.92582299856429 40.761432332024945)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-86gq.fktj~33ek", "00000000-0000-0000-ACA0-1B1ADD503012", 0, 1450753176, null, 1450753176, null, "{ }", "30th Ave", "POINT (-73.92147900005995 40.76677899973269)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-xmhk-wyfx_n2d3", "00000000-0000-0000-480F-21C9EAC5E109", 0, 1450753176, null, 1450753176, null, "{ }", "Jefferson St", "POINT (-73.92291299953057 40.706606999359956)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-metv_5gi3.9ve6", "00000000-0000-0000-E100-D8FE60E63D05", 0, 1450753176, null, 1450753176, null, "{ }", "Morgan Ave", "POINT (-73.93314699998834 40.70615200009972)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-sgrf.veiz~yrzn", "00000000-0000-0000-F5A1-C507D33D3E3B", 0, 1450753176, null, 1450753176, null, "{ }", "Queens Plz", "POINT (-73.937138239261 40.748918053128584)", "http://www.mta.info/nyct/subway/index.html", "E-M-R" ]
+, [ "row-xadb-arva_cahs", "00000000-0000-0000-781D-9B80056A6BAB", 0, 1450753176, null, 1450753176, null, "{ }", "18th Ave", "POINT (-73.97697099987755 40.62975500011662)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-f7ri~5ci4.t92x", "00000000-0000-0000-C398-868A4D3A553B", 0, 1450753176, null, 1450753176, null, "{ }", "Ditmas Ave", "POINT (-73.9781719999271 40.63611899980037)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-5pv5-46nw_rbd2", "00000000-0000-0000-AC73-BB60DFDFBD02", 0, 1450753176, null, 1450753176, null, "{ }", "77th St", "POINT (-74.02550999958477 40.62974200015178)", "http://www.mta.info/nyct/subway/index.html", "R" ]
+, [ "row-dkkf_wcmd-2by4", "00000000-0000-0000-5FED-3E17FB44228E", 0, 1450753176, null, 1450753176, null, "{ }", "Bay Ridge Ave", "POINT (-74.0233769992409 40.63496700028034)", "http://www.mta.info/nyct/subway/index.html", "R" ]
+, [ "row-b7nj_jsdh~h9fm", "00000000-0000-0000-AA92-80446BB16F0E", 0, 1450753176, null, 1450753176, null, "{ }", "55th St", "POINT (-73.99534882553118 40.631479094385625)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-z3we~tkt8-5746", "00000000-0000-0000-A9B9-226351B7D1D6", 0, 1450753176, null, 1450753176, null, "{ }", "50th St", "POINT (-73.99465878009656 40.636261224383965)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-9bam.eu8m-sz67", "00000000-0000-0000-F92B-25E3B43B9F7C", 0, 1450753176, null, 1450753176, null, "{ }", "Ft Hamilton Pkwy", "POINT (-74.00535100072418 40.631386000144154)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-hscn-h62a~2uid", "00000000-0000-0000-2D66-20202E042DEA", 0, 1450753176, null, 1450753176, null, "{ }", "8th Ave", "POINT (-74.01151599735913 40.63497133283626)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-c8id~z4fd-ajx7", "00000000-0000-0000-3F1F-B8B4B3C62183", 0, 1450753176, null, 1450753176, null, "{ }", "25th Ave", "POINT (-73.9868290001644 40.59770400016762)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-zd2g~jnwr.gp4v", "00000000-0000-0000-C976-85282114E092", 0, 1450753176, null, 1450753176, null, "{ }", "Bay Pky", "POINT (-73.99367619974002 40.601950795212716)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-p7pb_drmz~6j7k", "00000000-0000-0000-A434-5D2B8B3A91B3", 0, 1450753176, null, 1450753176, null, "{ }", "20th Ave", "POINT (-73.98452199841243 40.61710933301559)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-fn3b.848f-333z", "00000000-0000-0000-214E-0A799C3B949C", 0, 1450753176, null, 1450753176, null, "{ }", "18th Ave", "POINT (-73.99045399859853 40.620687331248675)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-z6jp-9d4u~vaxd", "00000000-0000-0000-4D35-2FD25B295162", 0, 1450753176, null, 1450753176, null, "{ }", "Bay Ridge - 95th St", "POINT (-74.0308760006303 40.6166220006113)", "http://www.mta.info/nyct/subway/index.html", "R" ]
+, [ "row-rbpe~r32f_gsif", "00000000-0000-0000-D5D7-20477764E7BD", 0, 1450753176, null, 1450753176, null, "{ }", "86th St", "POINT (-74.0283980002836 40.62268700032295)", "http://www.mta.info/nyct/subway/index.html", "R" ]
+, [ "row-why8_yme2.pfr4", "00000000-0000-0000-A759-BAE9A47CF57B", 0, 1450753176, null, 1450753176, null, "{ }", "79th St", "POINT (-74.000582873947 40.613159259344464)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-yygx~dke9~hg9f", "00000000-0000-0000-6485-78169687206B", 0, 1450753176, null, 1450753176, null, "{ }", "71st St", "POINT (-73.9988409490545 40.61925904300817)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-zzs4-4ppa~rzvj", "00000000-0000-0000-722F-0FAE11BC6031", 0, 1450753176, null, 1450753176, null, "{ }", "20th Ave", "POINT (-73.99817432102677 40.604677331055306)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-ryyq~yvaa-gucp", "00000000-0000-0000-E011-DC8A9A916C7D", 0, 1450753176, null, 1450753176, null, "{ }", "18th Ave", "POINT (-74.00159259254073 40.607736065209444)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-ynk8~bicq~q7wu", "00000000-0000-0000-C548-00F430059E85", 0, 1450753176, null, 1450753176, null, "{ }", "62nd St", "POINT (-73.99685725051668 40.626224796104694)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-7z4p~6j76-4vi9", "00000000-0000-0000-0DFC-FDDEED8BD532", 0, 1450753176, null, 1450753176, null, "{ }", "New Utrecht Ave", "POINT (-73.99635300046697 40.624842000193794)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-8gq3~sr4c_447f", "00000000-0000-0000-664C-A3ACBECF8F8A", 0, 1450753176, null, 1450753176, null, "{ }", "Ave U", "POINT (-73.97337641904097 40.595925159151875)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-5vm6-n77s-xf7z", "00000000-0000-0000-1F71-84C6AACE7CAA", 0, 1450753176, null, 1450753176, null, "{ }", "Kings Hwy", "POINT (-73.97235530833731 40.60325873883345)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-3j8e_ph4p.ufm5", "00000000-0000-0000-3A6B-C4142B0016DF", 0, 1450753176, null, 1450753176, null, "{ }", "Brighton Beach", "POINT (-73.96135378572068 40.57771052976751)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-r5p9.x6ne-t7pz", "00000000-0000-0000-AE72-90972B77A405", 0, 1450753176, null, 1450753176, null, "{ }", "Sheepshead Bay", "POINT (-73.95405791182218 40.58654788005143)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-8zfz-7vhs.qynz", "00000000-0000-0000-8360-CBC68DC5BF28", 0, 1450753176, null, 1450753176, null, "{ }", "Ave U", "POINT (-73.9558112232107 40.5993092845579)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-23m8-vzws.u56r", "00000000-0000-0000-9126-77AA81A72250", 0, 1450753176, null, 1450753176, null, "{ }", "Kings Hwy", "POINT (-73.95760873539083 40.608638978424565)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-295s_m2ry-qhhv", "00000000-0000-0000-E6A9-763FE44A6E67", 0, 1450753176, null, 1450753176, null, "{ }", "Ave U", "POINT (-73.97908400087046 40.59723633364408)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-h8vn_4dsf-6rm7", "00000000-0000-0000-B700-2D6B30D45BAA", 0, 1450753176, null, 1450753176, null, "{ }", "Kings Hwy", "POINT (-73.98037300212555 40.60405933336751)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-y8gn~drmx_kgae", "00000000-0000-0000-3E4E-F4B30B311B76", 0, 1450753176, null, 1450753176, null, "{ }", "Neptune Ave", "POINT (-73.97459272802236 40.58073909152164)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-s96u-s2ju-a328", "00000000-0000-0000-E5EF-15E0360686AA", 0, 1450753176, null, 1450753176, null, "{ }", "Ave X", "POINT (-73.97426599930228 40.589449999847005)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-8p2e-fb5x-be8n", "00000000-0000-0000-5D20-E8088D949700", 0, 1450753176, null, 1450753176, null, "{ }", "Bay 50th St", "POINT (-73.98376500025735 40.588840999864985)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-bt48-45xk_dcw2", "00000000-0000-0000-E5F2-15550E17A421", 0, 1450753176, null, 1450753176, null, "{ }", "Gravesend - 86th St", "POINT (-73.97818899976669 40.592465333902624)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-x7ab~3hc5~2vhu", "00000000-0000-0000-91BB-A7CAFE72FB84", 0, 1450753176, null, 1450753176, null, "{ }", "Ave P", "POINT (-73.97300281528905 40.60884314257858)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-w3en.7ui3~ysnn", "00000000-0000-0000-3232-8CE31AF8520B", 0, 1450753176, null, 1450753176, null, "{ }", "Ave N", "POINT (-73.97404850907516 40.61435704529457)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-dtcr_knyw~gnk3", "00000000-0000-0000-5DAF-2019B445BA23", 0, 1450753176, null, 1450753176, null, "{ }", "Bay Pky", "POINT (-73.97525697755246 40.62073195620631)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-9zej~4gq4~x6u7", "00000000-0000-0000-8380-DFE0316D2A18", 0, 1450753176, null, 1450753176, null, "{ }", "Ave M", "POINT (-73.95924310477643 40.61739807818342)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-xvzv.eaik-jirj", "00000000-0000-0000-685A-5B13B55A2546", 0, 1450753176, null, 1450753176, null, "{ }", "Bay Pky", "POINT (-73.98178001024034 40.61145612298434)", "http://www.mta.info/nyct/subway/index.html", "N" ]
+, [ "row-n6hr~d66m~zgp4", "00000000-0000-0000-EF54-FB31ED795BC0", 0, 1450753176, null, 1450753176, null, "{ }", "Ave I", "POINT (-73.97606933193563 40.625017773484714)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-8cs2.3uxg.ivt5", "00000000-0000-0000-A2FF-670130937AC5", 0, 1450753176, null, 1450753176, null, "{ }", "Ave J", "POINT (-73.96069316246778 40.625023152905705)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-7fb8~w2xs-z9ta", "00000000-0000-0000-8463-32D0E2D0BE6C", 0, 1450753176, null, 1450753176, null, "{ }", "Ave H", "POINT (-73.96151793874012 40.62920871052413)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-udeg.rpf2.erpj", "00000000-0000-0000-425E-8BBD38136AC8", 0, 1450753176, null, 1450753176, null, "{ }", "Neck Rd", "POINT (-73.95507827446252 40.59532202457638)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-ufmn_2twc_9zfa", "00000000-0000-0000-013B-6A14C067DCAE", 0, 1450753176, null, 1450753176, null, "{ }", "21st St - Queensbridge", "POINT (-73.94193761381545 40.75373960398463)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-8sah_r4c7_kmfj", "00000000-0000-0000-84BF-2175B02CC82E", 0, 1450753176, null, 1450753176, null, "{ }", "50th St", "POINT (-73.98598399999051 40.762456332634045)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-b3kd_6t2v-t7m3", "00000000-0000-0000-E00D-B80E5CDCD551", 0, 1450753176, null, 1450753176, null, "{ }", "7th Ave", "POINT (-73.98169782381285 40.76297048549053)", "http://www.mta.info/nyct/subway/index.html", "B-D-E" ]
+, [ "row-73m4~7mtv_msg2", "00000000-0000-0000-9D22-DE1DBFDE3C75", 0, 1450753176, null, 1450753176, null, "{ }", "47th-50th Sts - Rockefeller Ctr", "POINT (-73.9813310021191 40.75864133466554)", "http://www.mta.info/nyct/subway/index.html", "B-D-F-M" ]
+, [ "row-bkvp~jt4c-ehip", "00000000-0000-0000-D066-05FEAD491139", 0, 1450753176, null, 1450753176, null, "{ }", "57th St", "POINT (-73.97736800130777 40.76408533390238)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-xtiy-vgzd_38i6", "00000000-0000-0000-27EC-4D9B31A8D923", 0, 1450753176, null, 1450753176, null, "{ }", "Lexington Ave - 63rd St", "POINT (-73.96608964340214 40.764618428150776)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-7ya6~mmck~samc", "00000000-0000-0000-295C-0B4A7981891B", 0, 1450753176, null, 1450753176, null, "{ }", "Roosevelt Island - Main St", "POINT (-73.95323500002728 40.75917233330991)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-n4zs.ubuj.udqs", "00000000-0000-0000-6F65-F0BC68253DDF", 0, 1450753176, null, 1450753176, null, "{ }", "59th St - Columbus Circle", "POINT (-73.98164872336676 40.768249864983254)", "http://www.mta.info/nyct/subway/index.html", "A-B-C-D" ]
+, [ "row-9kfg~uern_werf", "00000000-0000-0000-3000-3FF0738D711F", 0, 1450753176, null, 1450753176, null, "{ }", "49th St", "POINT (-73.98420956580891 40.75980230703365)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-65v3_cja7-kkfu", "00000000-0000-0000-5B61-1297FCEE43B9", 0, 1450753176, null, 1450753176, null, "{ }", "57th St", "POINT (-73.98072973313602 40.76456585850871)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-2ybq_vjtn_auwk", "00000000-0000-0000-4C4C-F2281E09D8F5", 0, 1450753176, null, 1450753176, null, "{ }", "5th Ave - 59th St", "POINT (-73.9733470001843 40.76481133275182)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-juuh-vb98_ww3q", "00000000-0000-0000-EB31-D95CED830692", 0, 1450753176, null, 1450753176, null, "{ }", "Lexington Ave - 59th St", "POINT (-73.9673750166445 40.762709188743855)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-vu7s-sipg-xh3a", "00000000-0000-0000-3632-4157651D68B2", 0, 1450753176, null, 1450753176, null, "{ }", "34th St - Penn Station", "POINT (-73.99105699933416 40.75037333357704)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-satj.e58v~3jcp", "00000000-0000-0000-BC33-90EA7D01CA74", 0, 1450753176, null, 1450753176, null, "{ }", "Times Sq - 42nd St", "POINT (-73.98749500043364 40.75529033316711)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-abw7_a46u~ti8v", "00000000-0000-0000-6F24-F120B282BA0B", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway - Nassau St", "POINT (-74.00762309342792 40.71016249872167)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-mf5g_e4qd-s5vb", "00000000-0000-0000-29D9-69109186E5DB", 0, 1450753176, null, 1450753176, null, "{ }", "Chambers St", "POINT (-74.0085847360681 40.714111334148996)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-wwh3_suue~fdhi", "00000000-0000-0000-1408-59C2A5283B67", 0, 1450753176, null, 1450753176, null, "{ }", "42nd St - Port Authority Bus Term", "POINT (-73.98973500043815 40.75730833180808)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-h3u3-jk2y-c3ip", "00000000-0000-0000-A9AD-74CA643A5E17", 0, 1450753176, null, 1450753176, null, "{ }", "Myrtle-Willoughby Aves", "POINT (-73.94906699828155 40.69461933256742)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-p4ig~xqjn-iu2w", "00000000-0000-0000-405A-79DD6482F983", 0, 1450753176, null, 1450753176, null, "{ }", "Flushing Ave", "POINT (-73.9502340005062 40.70037699951844)", "http://www.mta.info/nyct/subway/index.html", "G" ]
+, [ "row-h8bx_q6en-zzdf", "00000000-0000-0000-45E7-D5A7283DB529", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St", "POINT (-73.99276500454658 40.74295465088764)", "http://www.mta.info/nyct/subway/index.html", "F-M" ]
+, [ "row-h34n.n7cq_bsdm", "00000000-0000-0000-57FB-7FA58A8884A8", 0, 1450753176, null, 1450753176, null, "{ }", "Herald Sq - 34th St", "POINT (-73.98777189015544 40.74978973294837)", "http://www.mta.info/nyct/subway/index.html", "B-D-F-M" ]
+, [ "row-cq45.dngq.chfd", "00000000-0000-0000-E072-87E1AD89FDD0", 0, 1450753176, null, 1450753176, null, "{ }", "Hoyt - Schermerhorn Sts", "POINT (-73.9850362399565 40.68840880947581)", "http://www.mta.info/nyct/subway/index.html", "A-C-G" ]
+, [ "row-pbv9_6pb5-cdm9", "00000000-0000-0000-B2E7-C15A569F1DF8", 0, 1450753176, null, 1450753176, null, "{ }", "Jay St - Borough Hall", "POINT (-73.98721815311183 40.69247097044472)", "http://www.mta.info/nyct/subway/index.html", "A-C-F" ]
+, [ "row-tten.a5qs-w2xy", "00000000-0000-0000-C0D5-12A2301B2BD6", 0, 1450753176, null, 1450753176, null, "{ }", "East Broadway", "POINT (-73.99017700117365 40.71385533408638)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-uz9t~qvhm-udhb", "00000000-0000-0000-C4DE-9F8D32D47F83", 0, 1450753176, null, 1450753176, null, "{ }", "Delancey St", "POINT (-73.98807806837901 40.718681075658196)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-5wkm_k832-r7wx", "00000000-0000-0000-D69C-01FAF007AD5E", 0, 1450753176, null, 1450753176, null, "{ }", "Lower East Side - 2nd Ave", "POINT (-73.98993799949149 40.7234019995008)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-apkp_hgz7-zv46", "00000000-0000-0000-4805-FE5A5D44D7E9", 0, 1450753176, null, 1450753176, null, "{ }", "Flushing Ave", "POINT (-73.94137734825632 40.70040473673457)", "http://www.mta.info/nyct/subway/index.html", "J-M" ]
+, [ "row-m2mu~xqkj_5p9c", "00000000-0000-0000-6A27-0EB0839C786D", 0, 1450753176, null, 1450753176, null, "{ }", "Myrtle Ave", "POINT (-73.93562300040674 40.69719533361235)", "http://www.mta.info/nyct/subway/index.html", "J-M-Z" ]
+, [ "row-zvnt-8nre~k54n", "00000000-0000-0000-7579-F45DEAE2211F", 0, 1450753176, null, 1450753176, null, "{ }", "4th Ave", "POINT (-73.98977899967635 40.67027200058139)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-2x2s~jesf-hv6k", "00000000-0000-0000-8C53-456A2DD321DA", 0, 1450753176, null, 1450753176, null, "{ }", "Smith - 9th Sts", "POINT (-73.99589172757463 40.673641394609135)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-fubc-tzyy.tizp", "00000000-0000-0000-6590-A78195F11334", 0, 1450753176, null, 1450753176, null, "{ }", "Bergen St", "POINT (-73.99075649550757 40.68611088098272)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-9btv.w2sk-ce5v", "00000000-0000-0000-A5DA-2C5A6C1C776A", 0, 1450753176, null, 1450753176, null, "{ }", "Lawrence St", "POINT (-73.98605667829878 40.69225572936931)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-kxy6.dzdq_wrte", "00000000-0000-0000-8E1A-C6BD96C80065", 0, 1450753176, null, 1450753176, null, "{ }", "Court St", "POINT (-73.99181830913483 40.694196814120716)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-hvwp.ejna-yrs2", "00000000-0000-0000-1826-80249F6FBD0B", 0, 1450753176, null, 1450753176, null, "{ }", "Union Sq - 14th St", "POINT (-73.9905388616843 40.73587260060109)", "http://www.mta.info/nyct/subway/index.html", "N-Q-R" ]
+, [ "row-mq26_s3qy.cwu3", "00000000-0000-0000-9AD1-F922F4D7D686", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St", "POINT (-73.98934400045437 40.74130300016866)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-maem~vdux_8v9s", "00000000-0000-0000-AA0A-CFE556119373", 0, 1450753176, null, 1450753176, null, "{ }", "Prospect Ave", "POINT (-73.99287200058961 40.665414000093335)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-455u_3pjn_ke82", "00000000-0000-0000-3CE8-370C136D4D07", 0, 1450753176, null, 1450753176, null, "{ }", "9th St", "POINT (-73.988301999704 40.67084700022307)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-9m3k.s5ua_ftb3", "00000000-0000-0000-13C8-4CE7A0D12F74", 0, 1450753176, null, 1450753176, null, "{ }", "3rd Ave", "POINT (-73.98575000098694 40.73269133261918)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-9um6_e633~zfw2", "00000000-0000-0000-1E80-5138C89CE662", 0, 1450753176, null, 1450753176, null, "{ }", "Union Sq - 14th St", "POINT (-73.99066976943084 40.73476364552659)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-j5qr.qdsg-ix6b", "00000000-0000-0000-A609-8E2E4B44F24B", 0, 1450753176, null, 1450753176, null, "{ }", "Liberty Ave", "POINT (-73.89654800075247 40.67454233286892)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-ujzw-vaa9_kaub", "00000000-0000-0000-2236-750B625B490F", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway Junction", "POINT (-73.90531600029104 40.67833399982758)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-x2sf~jqh7~9eu8", "00000000-0000-0000-2E0B-18B3BC9FC6DE", 0, 1450753176, null, 1450753176, null, "{ }", "59th St", "POINT (-74.01788099968473 40.64136199944241)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-veva-itsq~svs9", "00000000-0000-0000-CA21-07D09C3756C0", 0, 1450753176, null, 1450753176, null, "{ }", "45th St", "POINT (-74.01000600035954 40.648938999878794)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-8ejs_44im-gw7e", "00000000-0000-0000-02B6-94FF62774349", 0, 1450753176, null, 1450753176, null, "{ }", "36th St", "POINT (-74.00354899956925 40.655143999751665)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-mshd-whgs-8d72", "00000000-0000-0000-78B5-59D508790768", 0, 1450753176, null, 1450753176, null, "{ }", "9th Ave", "POINT (-73.99444874408546 40.64648441084645)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-zeme_hf5r_xsuf", "00000000-0000-0000-4BD7-326FED244E72", 0, 1450753176, null, 1450753176, null, "{ }", "53rd St", "POINT (-74.01403400049048 40.645069000509004)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-e8w5~9inv.7zgs", "00000000-0000-0000-C168-B5F1499DCD1A", 0, 1450753176, null, 1450753176, null, "{ }", "Ft Hamilton Pkwy", "POINT (-73.99420223752828 40.64091304459246)", "http://www.mta.info/nyct/subway/index.html", "D" ]
+, [ "row-332f.3ex8.9e9q", "00000000-0000-0000-C3B3-EA292D15BF1B", 0, 1450753176, null, 1450753176, null, "{ }", "25th St", "POINT (-73.99809099983285 40.66039700032125)", "http://www.mta.info/nyct/subway/index.html", "D-N-R" ]
+, [ "row-xnkn.kiex_gtuu", "00000000-0000-0000-E9F0-C4E12D8AE1BA", 0, 1450753176, null, 1450753176, null, "{ }", "Carroll St", "POINT (-73.99494697982026 40.68027368469693)", "http://www.mta.info/nyct/subway/index.html", "F-G" ]
+, [ "row-ipwx~q4y7-wvxy", "00000000-0000-0000-B5A2-364ADB8B6DB0", 0, 1450753176, null, 1450753176, null, "{ }", "Spring St", "POINT (-74.00373899872902 40.7262273349522)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-g338_yr66_tarx", "00000000-0000-0000-2190-A5CA6DAFA949", 0, 1450753176, null, 1450753176, null, "{ }", "181st St", "POINT (-73.93796900163554 40.85169533266245)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-53vj.d4qd-ie5w", "00000000-0000-0000-893A-76CEB79E8DA3", 0, 1450753176, null, 1450753176, null, "{ }", "190th St", "POINT (-73.93417999937553 40.859022332220405)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-k7q8.3tzb.sd45", "00000000-0000-0000-D58E-DB14A8AB9695", 0, 1450753176, null, 1450753176, null, "{ }", "116th St", "POINT (-73.95479778092779 40.805058467107635)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-ytcm~jc62-eusx", "00000000-0000-0000-B60A-16782219BE1C", 0, 1450753176, null, 1450753176, null, "{ }", "125th St", "POINT (-73.95224799754361 40.81107200632826)", "http://www.mta.info/nyct/subway/index.html", "A-B-C-D" ]
+, [ "row-767c-9cvr.fr28", "00000000-0000-0000-B12E-D365CB05B754", 0, 1450753176, null, 1450753176, null, "{ }", "Prince St", "POINT (-73.99770200007194 40.72432899922576)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-s9hd~b4s3.rdp7", "00000000-0000-0000-FB93-DF68D5593D0F", 0, 1450753176, null, 1450753176, null, "{ }", "8th St - NYU", "POINT (-73.9925079989093 40.730465331990395)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-6s2t~n94e~pu2t", "00000000-0000-0000-7F3D-00DF0A2070BB", 0, 1450753176, null, 1450753176, null, "{ }", "Fulton St", "POINT (-74.00657100024912 40.70941633229353)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-w5rr~un42~v2pm", "00000000-0000-0000-9D86-86DE26A8113D", 0, 1450753176, null, 1450753176, null, "{ }", "Park Pl", "POINT (-74.00881099987163 40.713051332200514)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-b49t~3v6r~2eas", "00000000-0000-0000-0AD5-D6A5B8CDC405", 0, 1450753176, null, 1450753176, null, "{ }", "Chambers St", "POINT (-74.00926600172447 40.71547833317367)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-kttv~4ebu_myh5", "00000000-0000-0000-21D8-0C651701ABEA", 0, 1450753176, null, 1450753176, null, "{ }", "Hoyt St", "POINT (-73.98506379611653 40.69054451845209)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-cbxe-2s55_73ug", "00000000-0000-0000-3801-5F035C355C58", 0, 1450753176, null, 1450753176, null, "{ }", "Borough Hall", "POINT (-73.98999799906535 40.69321933265995)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-tsvd~mq2p.v5az", "00000000-0000-0000-CB6C-E15CBCB8EA99", 0, 1450753176, null, 1450753176, null, "{ }", "183rd St", "POINT (-73.9038790007054 40.85840733349188)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-q92k.uqzk.a3xb", "00000000-0000-0000-4863-E02221AC0173", 0, 1450753176, null, 1450753176, null, "{ }", "Fordham Rd", "POINT (-73.90103399833198 40.86280333320703)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-nsfq-wis5.x62u", "00000000-0000-0000-FFB3-59C5CD9E5033", 0, 1450753176, null, 1450753176, null, "{ }", "World Trade Center", "POINT (-74.00974461478488 40.71256426010712)", "http://www.mta.info/nyct/subway/index.html", "E" ]
+, [ "row-ruyk.x3bc-5awj", "00000000-0000-0000-3F8A-D488699722BB", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St - Holland Tunnel", "POINT (-74.00522900191194 40.72082433307871)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-4bzc_5zms-p5vw", "00000000-0000-0000-5A0E-950DF8D19ABB", 0, 1450753176, null, 1450753176, null, "{ }", "155th St", "POINT (-73.94151400028585 40.83051833300836)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-kjt2.cqd9.cuf8", "00000000-0000-0000-EF48-F49DBEA9D96F", 0, 1450753176, null, 1450753176, null, "{ }", "163rd St - Amsterdam Av", "POINT (-73.93989200159317 40.836013332605724)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-tz99_2pkm.uukr", "00000000-0000-0000-5618-6056A85DAD63", 0, 1450753176, null, 1450753176, null, "{ }", "Fulton St", "POINT (-74.0079380008774 40.71002299961088)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-zezh.kj9g.nun4", "00000000-0000-0000-1D78-BAA82F80705C", 0, 1450753176, null, 1450753176, null, "{ }", "Chambers St", "POINT (-74.00340673089009 40.7132341227328)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-95e5_85p6.yhqs", "00000000-0000-0000-B4A1-C7CA687B9801", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St", "POINT (-73.99982638555147 40.71817420996139)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-nf7d~7xuw~ddv8", "00000000-0000-0000-E533-8B926E3D0582", 0, 1450753176, null, 1450753176, null, "{ }", "City Hall", "POINT (-74.00698581794778 40.713272664531246)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-e94m_ia4x-cs3q", "00000000-0000-0000-6F04-00CD34481F02", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St", "POINT (-74.00182599973189 40.71946533477728)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-2kem~m8hv.gtyp", "00000000-0000-0000-A88B-9FB31D33E376", 0, 1450753176, null, 1450753176, null, "{ }", "South Ferry", "POINT (-74.01316895983936 40.70173084095291)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-yxuf_nas9~xxgp", "00000000-0000-0000-6BF0-3B9E5037FE5F", 0, 1450753176, null, 1450753176, null, "{ }", "Bowling Green", "POINT (-74.01400799848199 40.70491433249645)", "http://www.mta.info/nyct/subway/index.html", "4-5" ]
+, [ "row-sw3u.rk8v.u74i", "00000000-0000-0000-F359-74F38F584FAB", 0, 1450753176, null, 1450753176, null, "{ }", "Wall St", "POINT (-74.01186199920538 40.707557334362484)", "http://www.mta.info/nyct/subway/index.html", "4-5" ]
+, [ "row-aj78.vvna.wedz", "00000000-0000-0000-8C7D-6858A3AEDEBB", 0, 1450753176, null, 1450753176, null, "{ }", "Whitehall St", "POINT (-74.01300723736433 40.70314270735986)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-uak6.cnc5~zgv3", "00000000-0000-0000-5EDB-292DB72D1113", 0, 1450753176, null, 1450753176, null, "{ }", "Rector St", "POINT (-74.01297456237413 40.70774508995048)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-yb6u_xnb6.3azy", "00000000-0000-0000-70BD-9366CB59E563", 0, 1450753176, null, 1450753176, null, "{ }", "Fresh Pond Rd", "POINT (-73.89589800086416 40.70622633198259)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-uery~emwt_z5kn", "00000000-0000-0000-27D9-F4567F9E540E", 0, 1450753176, null, 1450753176, null, "{ }", "Middle Village - Metropolitan Ave", "POINT (-73.88957722978766 40.71143163827924)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-nddq.zjmm_knej", "00000000-0000-0000-4AD9-73ED74D54D9E", 0, 1450753176, null, 1450753176, null, "{ }", "Rector St", "POINT (-74.01378300080631 40.70751333304196)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-ze74_3nya~cby9", "00000000-0000-0000-B05A-61EAABC61D7B", 0, 1450753176, null, 1450753176, null, "{ }", "Cortlandt St (Temporarily Closed)", "POINT (-74.01218800069755 40.71183533452517)", "http://www.mta.info/nyct/subway/index.html", "1" ]
+, [ "row-4jaj_8gn9.kftu", "00000000-0000-0000-5A43-6984AF44B1EC", 0, 1450753176, null, 1450753176, null, "{ }", "Fulton St", "POINT (-74.0095089987439 40.71036833193085)", "http://www.mta.info/nyct/subway/index.html", "4-5" ]
+, [ "row-97t8-heiu-x8fx", "00000000-0000-0000-A5A5-703BCCB92C4F", 0, 1450753176, null, 1450753176, null, "{ }", "Broad St", "POINT (-74.01105600048923 40.70647633411761)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-hsmc-i9au_xnnz", "00000000-0000-0000-97DC-0E4D32E866D1", 0, 1450753176, null, 1450753176, null, "{ }", "Cortlandt St (NB only)", "POINT (-74.0111319648397 40.710513317670305)", "http://www.mta.info/nyct/subway/index.html", "N-R" ]
+, [ "row-akai-87cp-h7ee", "00000000-0000-0000-2E71-50418682B5D4", 0, 1450753176, null, 1450753176, null, "{ }", "Wall St", "POINT (-74.00909999899459 40.70682133279038)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-4vkw-8tdt_aq2c", "00000000-0000-0000-2272-C934EF097BDD", 0, 1450753176, null, 1450753176, null, "{ }", "Dyckman St", "POINT (-73.92727099913175 40.86549133254293)", "http://www.mta.info/nyct/subway/index.html", "A" ]
+, [ "row-dqtg-3xei~atdi", "00000000-0000-0000-CA2B-88B03A69F8FF", 0, 1450753176, null, 1450753176, null, "{ }", "Grand St", "POINT (-73.99375299925896 40.71826733292375)", "http://www.mta.info/nyct/subway/index.html", "B-D" ]
+, [ "row-3d33.vxjc~kk48", "00000000-0000-0000-8B33-FCD0AC85AF41", 0, 1450753176, null, 1450753176, null, "{ }", "Broadway - Lafayette St", "POINT (-73.99620399840286 40.725297332299235)", "http://www.mta.info/nyct/subway/index.html", "B-D-F-M" ]
+, [ "row-g27i-scge_hjgg", "00000000-0000-0000-72E5-AE1468F38125", 0, 1450753176, null, 1450753176, null, "{ }", "Bowery", "POINT (-73.99380690672811 40.72024721673806)", "http://www.mta.info/nyct/subway/index.html", "J-Z" ]
+, [ "row-se9e~w794.ig5r", "00000000-0000-0000-61F3-2797FC1772EC", 0, 1450753176, null, 1450753176, null, "{ }", "Canal St", "POINT (-74.00105471253056 40.71881459682263)", "http://www.mta.info/nyct/subway/index.html", "N-Q" ]
+, [ "row-fp8w_th6x.azsq", "00000000-0000-0000-D576-C439E25809A5", 0, 1450753176, null, 1450753176, null, "{ }", "23rd St", "POINT (-73.99804100061175 40.745906332964005)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-z7br.zwx5_iyjk", "00000000-0000-0000-9FD2-10A53AE7EE54", 0, 1450753176, null, 1450753176, null, "{ }", "34th St - Penn Station", "POINT (-73.99339099930413 40.752287334131175)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-atp3_nghi~u3dz", "00000000-0000-0000-31FC-FFB39D7AD9D1", 0, 1450753176, null, 1450753176, null, "{ }", "Jackson Hts - Roosevelt Av", "POINT (-73.89129866498959 40.74654002448512)", "http://www.mta.info/nyct/subway/index.html", "E-F-M-R" ]
+, [ "row-fn92~465n_nwai", "00000000-0000-0000-E1B6-2557D5A48FC9", 0, 1450753176, null, 1450753176, null, "{ }", "14th St", "POINT (-74.00020100059422 40.737826333308426)", "http://www.mta.info/nyct/subway/index.html", "1-2-3" ]
+, [ "row-7ere~vxgi_se9z", "00000000-0000-0000-13C5-863F6E8E81B9", 0, 1450753176, null, 1450753176, null, "{ }", "135th St", "POINT (-73.94753480832401 40.817905892108634)", "http://www.mta.info/nyct/subway/index.html", "A-B-C" ]
+, [ "row-ev7x-jz8w~64p4", "00000000-0000-0000-B97A-0A039F6CC49F", 0, 1450753176, null, 1450753176, null, "{ }", "14th St", "POINT (-73.99620899891177 40.73822833288366)", "http://www.mta.info/nyct/subway/index.html", "F-M" ]
+, [ "row-zrb7-cqqf-2x8g", "00000000-0000-0000-1314-FA4AE90CD60A", 0, 1450753176, null, 1450753176, null, "{ }", "6th Ave", "POINT (-73.99775078872293 40.737741803112115)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-ptfg-erbm_t95r", "00000000-0000-0000-6FA2-155F87951F60", 0, 1450753176, null, 1450753176, null, "{ }", "8th Ave", "POINT (-74.0025780004777 40.73977700012131)", "http://www.mta.info/nyct/subway/index.html", "L" ]
+, [ "row-3zzy.xtyn_qe42", "00000000-0000-0000-3F4E-09D6D181A9ED", 0, 1450753176, null, 1450753176, null, "{ }", "14th St", "POINT (-74.00168999943754 40.74089333363853)", "http://www.mta.info/nyct/subway/index.html", "A-C-E" ]
+, [ "row-9z2j~gmbu.vt2g", "00000000-0000-0000-C4B1-D1DC213CFB5A", 0, 1450753176, null, 1450753176, null, "{ }", "Nostrand Ave", "POINT (-73.95042624893824 40.66993848398767)", "http://www.mta.info/nyct/subway/index.html", "3-4" ]
+, [ "row-8iyi-mfaf_95bj", "00000000-0000-0000-3A28-9305029E38CE", 0, 1450753176, null, 1450753176, null, "{ }", "Clark St", "POINT (-73.99308599832662 40.69746633298482)", "http://www.mta.info/nyct/subway/index.html", "2-3" ]
+, [ "row-iiig-jrfa_3ej4", "00000000-0000-0000-7D03-34C3358B260F", 0, 1450753176, null, 1450753176, null, "{ }", "Franklin Ave", "POINT (-73.95684799980513 40.6813799997593)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-symn~crcx~ucbr", "00000000-0000-0000-3AC3-4C9199578223", 0, 1450753176, null, 1450753176, null, "{ }", "Clinton - Washington Aves", "POINT (-73.96583799868554 40.683263332875605)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-p7n9-xv5i-tdnd", "00000000-0000-0000-7D6B-D86F43D564B1", 0, 1450753176, null, 1450753176, null, "{ }", "Forest Ave", "POINT (-73.90307499994645 40.70441233402832)", "http://www.mta.info/nyct/subway/index.html", "M" ]
+, [ "row-j5es_hwfx_duav", "00000000-0000-0000-C695-677C29A36B96", 0, 1450753176, null, 1450753176, null, "{ }", "110th St", "POINT (-73.94424999696717 40.79502033352402)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-yc5f_3f72.ba9h", "00000000-0000-0000-5BE1-ED716CAFC426", 0, 1450753176, null, 1450753176, null, "{ }", "86th St", "POINT (-73.95558899978455 40.77949233177087)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-fpri.2ebr~zqft", "00000000-0000-0000-E361-06B8832E4531", 0, 1450753176, null, 1450753176, null, "{ }", "York St", "POINT (-73.98688499982453 40.69974300092185)", "http://www.mta.info/nyct/subway/index.html", "F" ]
+, [ "row-28zf.u2k3_zzqw", "00000000-0000-0000-5A48-B2E1A041E447", 0, 1450753176, null, 1450753176, null, "{ }", "High St", "POINT (-73.99053100095567 40.69933733273785)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-wrvu.attp_iznz", "00000000-0000-0000-CE01-2DE33A90AB64", 0, 1450753176, null, 1450753176, null, "{ }", "Lafayette Ave", "POINT (-73.97394599824162 40.686113333301115)", "http://www.mta.info/nyct/subway/index.html", "A-C" ]
+, [ "row-s55u-ijxn~jwft", "00000000-0000-0000-CECC-D07219C4E83B", 0, 1450753176, null, 1450753176, null, "{ }", "President St", "POINT (-73.95058920055888 40.667883936572196)", "http://www.mta.info/nyct/subway/index.html", "2-5" ]
+, [ "row-vgr8.gwa7~5shc", "00000000-0000-0000-4F7E-0AE9DAA4DFB6", 0, 1450753176, null, 1450753176, null, "{ }", "Woodlawn", "POINT (-73.87875099890881 40.88603733314497)", "http://www.mta.info/nyct/subway/index.html", "4" ]
+, [ "row-upfq~88s9_jki7", "00000000-0000-0000-2143-C9CD3C91BA7A", 0, 1450753176, null, 1450753176, null, "{ }", "Bleecker St (Uptown)", "POINT (-73.99465900013325 40.72591499972982)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-74mc~id7a.fbcd", "00000000-0000-0000-B602-EAAE66091564", 0, 1450753176, null, 1450753176, null, "{ }", "103rd St", "POINT (-73.94747800151542 40.790600332975615)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-hhcr.86xm-i39h", "00000000-0000-0000-AC6D-9766CC53EF52", 0, 1450753176, null, 1450753176, null, "{ }", "Euclid Ave", "POINT (-73.87210599994208 40.67537733193324)", "http://www.mta.info/nyct/subway/index.html", "A-C-S" ]
+, [ "row-2kbu-pq2j~3pkw", "00000000-0000-0000-F0A2-CF2F5FF70B8C", 0, 1450753176, null, 1450753176, null, "{ }", "88th St", "POINT (-73.8514699989356 40.67984333439131)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-74in~6kjc~jxwf", "00000000-0000-0000-ACE0-82C2DD951A01", 0, 1450753176, null, 1450753176, null, "{ }", "Cortelyou Rd", "POINT (-73.96379005494865 40.640940498719964)", "http://www.mta.info/nyct/subway/index.html", "B-Q" ]
+, [ "row-mmkk_j5fy_7rzv", "00000000-0000-0000-47F8-742247B96C29", 0, 1450753176, null, 1450753176, null, "{ }", "116th St", "POINT (-73.9416169982848 40.79862933384588)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-iybs~aumh.ahff", "00000000-0000-0000-8AE2-464BC313BA47", 0, 1450753176, null, 1450753176, null, "{ }", "Parkchester", "POINT (-73.86081599995809 40.83322633218034)", "http://www.mta.info/nyct/subway/index.html", "6-6 Express" ]
+, [ "row-ah9x~k7yc~262e", "00000000-0000-0000-65BA-26C8B58568FE", 0, 1450753176, null, 1450753176, null, "{ }", "Franklin St", "POINT (-74.00688600226555 40.71931833420651)", "http://www.mta.info/nyct/subway/index.html", "1-2" ]
+, [ "row-xmaq-d9ir-iavi", "00000000-0000-0000-1BCD-CAE15BB3A36C", 0, 1450753176, null, 1450753176, null, "{ }", "80th St", "POINT (-73.85899200121291 40.679371334570604)", "http://www.mta.info/nyct/subway/index.html", "A-S" ]
+, [ "row-pa2q_qq4d~8c4m", "00000000-0000-0000-5D48-EE29D5E37B72", 0, 1450753176, null, 1450753176, null, "{ }", "5th Ave - Bryant Pk", "POINT (-73.98196299871373 40.75382133359373)", "http://www.mta.info/nyct/subway/index.html", "7-7 Express" ]
+, [ "row-nev5_c3dq_9p2a", "00000000-0000-0000-5185-0AB7403733BD", 0, 1450753176, null, 1450753176, null, "{ }", "Spring St", "POINT (-73.99714099950617 40.72230133331719)", "http://www.mta.info/nyct/subway/index.html", "4-6-6 Express" ]
+, [ "row-9nbd-gtui.ayd4", "00000000-0000-0000-7265-839E646D800F", 0, 1450753176, null, 1450753176, null, "{ }", "125th St", "POINT (-73.93759400019064 40.804138334029325)", "http://www.mta.info/nyct/subway/index.html", "4-5-6-6 Express" ]
+, [ "row-4xrt_2xa6_rbzw", "00000000-0000-0000-6E71-4DB9AFB5400B", 0, 1450753176, null, 1450753176, null, "{ }", "Coney Island - Stillwell Av", "POINT (-73.98123599855974 40.57728133344397)", "http://www.mta.info/nyct/subway/index.html", "D-F-N-Q" ]
+ ]
+}
